@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily
-  workflow_dispatch: # Allows manual run
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -10,14 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in Medium posts
+        uses: actions/checkout@v4   
+      - name: Pull in Medium and ORCID posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@thesagekhan"
-          # Set this to 100 or higher to show all posts
-          max_post_count: 100 
-          # Customize the date format (e.g., Feb 11, 2026)
+          # ORCID ID and medium ID 
+          feed_list: "https://medium.com/feed/@thesagekhan, https://orcid.org/feed/0009-0001-5084-6122"
+          max_post_count: 50
           date_format: "mmm d, yyyy"
-          # Custom template with icons and formatting
-          template: "<li>$date — 📝 <a href='$url'>$title</a></li>"
+          # This template creates the clean, emoji-filled list items
+          template: "<li>$date — $randomEmoji(📝,🔬,📚) <a href='$url'>$title</a></li>"
