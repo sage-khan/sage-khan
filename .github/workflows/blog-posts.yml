@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@thesagekhan"
+          # Set this to 100 or higher to show all posts
+          max_post_count: 100 
+          # Customize the date format (e.g., Feb 11, 2026)
+          date_format: "mmm d, yyyy"
+          # Custom template with icons and formatting
+          template: "<li>$date — 📝 <a href='$url'>$title</a></li>"
