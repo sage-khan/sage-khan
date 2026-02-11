@@ -4,13 +4,14 @@ Marie Sklodowska-Curie PhD Scholar · AI, Cyber Security and Blockchain Scientis
 
 Based in Granada, Spain
 
-Calendar: [https://calendar.app.google/JpzowQkFj39zH9zu7](https://calendar.app.google/JpzowQkFj39zH9zu7)
-Email: mailto:sagekhanofficial@gmail.com
-LinkedIn: [https://linkedin.com/in/sagekhan/](https://linkedin.com/in/sagekhan/)
-GitHub: [https://github.com/sage-khan](https://github.com/sage-khan)
-Medium: [https://thesagekhan.medium.com](https://thesagekhan.medium.com)
-ORCID: [https://orcid.org/0009-0001-5084-6122](https://orcid.org/0009-0001-5084-6122)
-Linktree: [https://linktr.ee/sagekhanofficial](https://linktr.ee/sagekhanofficial)
+How to Reach me:
+- Calendar: [https://calendar.app.google/JpzowQkFj39zH9zu7](https://calendar.app.google/JpzowQkFj39zH9zu7)
+- Email: mailto:sagekhanofficial@gmail.com
+- LinkedIn: [https://linkedin.com/in/sagekhan/](https://linkedin.com/in/sagekhan/)
+- GitHub: [https://github.com/sage-khan](https://github.com/sage-khan)
+- Medium: [https://thesagekhan.medium.com](https://thesagekhan.medium.com)
+- ORCID: [https://orcid.org/0009-0001-5084-6122](https://orcid.org/0009-0001-5084-6122)
+- Linktree: [https://linktr.ee/sagekhanofficial](https://linktr.ee/sagekhanofficial)
 
 ---
 
@@ -22,65 +23,21 @@ Dynamic and versatile professional with cross-domain expertise in Cybersecurity,
 
 ## Skills
 
-### Spoken Languages
-
-English (C1 R/W/S), Urdu (C1 R/W/S), Arabic (A2 R/W/S), Russian (A1 R/W/S), Spanish (A1 R/W/S), Punjabi (S), Pushto (S)
-
-### Programming Languages
-
-Python, R, C++, Bash, Java, SQL, HTML/CSS, JavaScript, LaTeX, Markdown. Skilled in LLM prompting, fine-tuning, and integration across models such as GPT, LLaMA, Mistral, and LLaVA.
-
-### AI & Machine Learning Frameworks
-
-PyTorch, TensorFlow, Keras, Scikit-learn, LangChain, LlamaIndex, OpenLLM, LM Studio, Ollama, Unsloth, LlamaFactory. Hands-on experience with model deployment, RAG pipelines, and fine-tuning.
-
-### Data Science & Analytics
-
-Data Analysis, NLP, Generative AI, RAG, ETL, Data Warehousing, Business Intelligence, Tesseract OCR, OCRmyPDF, Power BI, Jupyter, Anaconda.
-
-### ETL & Workflow Automation Tools
-
-Airflow, Airbyte, PySpark, Knime, Unstructured.io, n8n.io, Crew AI.
-
-### Cloud & Infrastructure Platforms
-
-AWS, Azure, Google Cloud Platform (GCP), Oracle Cloud, Digital Ocean, RunPod, Proxmox, OpenStack, VMware. Proficient in containerized and virtualized environments.
-
-### DevOps & MLOps
-
-Docker, Kubernetes, Terraform, Git, CI/CD (GitHub Actions, Jenkins), AWS SageMaker, MLflow, Kaggle. Experience in automated deployment pipelines and model lifecycle management.
-
-### Cybersecurity & GRC Frameworks
-
-NIST CSF, ISO 27001, SOC 2, PCI DSS, HIPAA, Eramba, JupiterOne. Skilled in InfoSec audits, Governance, Risk Management, Compliance, and Incident Response.
-
-### Technologies & Tools
-
-Linux (Ubuntu, Kali, Fedora, CentOS), WordPress, ERPNext, RPA Framework, PyAutoGUI, MeshCentral, F5/E2 TTS, Pyannote Diarizer, Speechbrain, Kaldi, Vosk, DeepSpeech.
-
-### Database Technologies
-
-MySQL, PostgreSQL, MS SQL Server, MongoDB, DynamoDB, CosmosDB, Vector Databases (Chroma, Qdrant, Weaviate, Pinecone), Blob Storage.
-
-### Developer Tools
-
-VS Code, Windsurf, Cursor AI, Jupyter, Anaconda, LaTeX, Markdown, REST API development.
-
-### Administration & Productivity Tools
-
-Microsoft Office Suite, Excel (advanced formulas and dashboards), Trello, Jira (Agile & Scrum), Confluence, Notion.
-
-### Audio Engineering & Music Production
-
-Digital Audio Workstations (FL Studio, Ardour), Audio Editing (Audacity), Mixing & Mastering, Sound Design, Music Composition, Piano, Guitar, Vocals.
-
-### Soft Skills
-
-Leadership, Strategic Planning, Mentorship, Public Speaking, Technical Documentation, Research Writing, Problem solving, Team Building, Workshop Facilitation.
-
-### Video & Content Creation
-
-OBS Studio, OpenShot, Canva, StreamYard. Experienced in the creation of educational content, live training, and online broadcasting.
+- **Spoken Languages** : English (C1 R/W/S), Urdu (C1 R/W/S), Arabic (A2 R/W/S), Russian (A1 R/W/S), Spanish (A1 R/W/S), Punjabi (S), Pushto (S)
+- **Programming Languages**: Python, R, C++, Bash, Java, SQL, HTML/CSS, JavaScript, LaTeX, Markdown. Skilled in LLM prompting, fine-tuning, and integration across models such as GPT, LLaMA, Mistral, and LLaVA.
+- **AI & Machine Learning Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, LangChain, LlamaIndex, OpenLLM, LM Studio, Ollama, Unsloth, LlamaFactory. Hands-on experience with model deployment, RAG pipelines, and fine-tuning.
+- **Data Science & Analytics**: Data Analysis, NLP, Generative AI, RAG, ETL, Data Warehousing, Business Intelligence, Tesseract OCR, OCRmyPDF, Power BI, Jupyter, Anaconda.
+- **ETL & Workflow Automation Tools**: Airflow, Airbyte, PySpark, Knime, Unstructured.io, n8n.io, Crew AI.
+- **Cloud & Infrastructure Platforms**: AWS, Azure, Google Cloud Platform (GCP), Oracle Cloud, Digital Ocean, RunPod, Proxmox, OpenStack, VMware. Proficient in containerized and virtualized environments.
+- **DevOps & MLOps**: Docker, Kubernetes, Terraform, Git, CI/CD (GitHub Actions, Jenkins), AWS SageMaker, MLflow, Kaggle. Experience in automated deployment pipelines and model lifecycle management.
+- **Cybersecurity & GRC Frameworks**: NIST CSF, ISO 27001, SOC 2, PCI DSS, HIPAA, Eramba, JupiterOne. Skilled in InfoSec audits, Governance, Risk Management, Compliance, and Incident Response.
+- **Technologies & Tools**: Linux (Ubuntu, Kali, Fedora, CentOS), WordPress, ERPNext, RPA Framework, PyAutoGUI, MeshCentral, F5/E2 TTS, Pyannote Diarizer, Speechbrain, Kaldi, Vosk, DeepSpeech.
+- **Database Technologies**: MySQL, PostgreSQL, MS SQL Server, MongoDB, DynamoDB, CosmosDB, Vector Databases (Chroma, Qdrant, Weaviate, Pinecone), Blob Storage.
+- **Developer Tools**: VS Code, Windsurf, Cursor AI, Jupyter, Anaconda, LaTeX, Markdown, REST API development.
+- **Administration & Productivity Tools**: Microsoft Office Suite, Excel (advanced formulas and dashboards), Trello, Jira (Agile & Scrum), Confluence, Notion.
+- **Audio Engineering & Music Production**: Digital Audio Workstations (FL Studio, Ardour), Audio Editing (Audacity), Mixing & Mastering, Sound Design, Music Composition, Piano, Guitar, Vocals.
+- **Soft Skills**: Leadership, Strategic Planning, Mentorship, Public Speaking, Technical Documentation, Research Writing, Problem solving, Team Building, Workshop Facilitation.
+- **Video & Content Creation**: OBS Studio, OpenShot, Canva, StreamYard. Experienced in the creation of educational content, live training, and online broadcasting.
 
 ---
 
@@ -104,7 +61,7 @@ OBS Studio, OpenShot, Canva, StreamYard. Experienced in the creation of educatio
 
 ## Project Lead – DataOps Initiative
 
-**Continuous Delivery Foundation · Freelance Remote, United States**
+**[Continuous Delivery Foundation](https://cd.foundation/dataops/) · Remote, United States**
 Mar 2025 – Present
 
 * Led the Continuous Delivery Foundation’s DataOps Landscape Initiative, defining its vision, roadmap, and governance to strengthen the open-source DataOps ecosystem.
@@ -119,7 +76,7 @@ Mar 2025 – Present
 
 ---
 
-## Syllaby AI
+## [Syllaby AI](https://syllaby.io/)
 
 **Senior AI Developer**
 Remote
@@ -137,11 +94,11 @@ Mar 2025 – Jul 2025
 * Created text-to-video generation systems by combining D-ID and Dia TTS, enabling lifelike talking head experiences with synchronized speech and facial animation.
 * Built an agentic brainstorming platform using n8n.io, integrating LLM agents, vector databases, and API orchestration to automate internal ideation workflows.
 
-[https://syllaby.io/](https://syllaby.io/)
+
 
 ---
 
-## TwinCiti AI
+## [TwinCiti AI](https://www.twinciti.com)
 
 **Machine Learning Engineer (Contract)**
 Remote
@@ -153,24 +110,6 @@ Dec 2024 – Jan 2025
 * Integrated Large Language Models (LLMs) through OpenRouter and ChatGPT APIs to enhance automation and reasoning capabilities across pipelines.
 * Developed speaker diarization systems using Pyannote and Whisper-based transcript analysis to accurately separate and label speakers in multi-speaker audio.
 * Delivered end-to-end AI model training, optimization, and deployment, ensuring scalable, maintainable, and production-ready solutions.
-
-[https://www.twinciti.com](https://www.twinciti.com)
-
----
-
-## HIQ Solutions LLC
-
-**Machine Learning Consultant**
-Remote (Part-Time)
-8 Jul 2024 – 25 Dec 2024
-
-* Pre-Sales Consultation - Acted as a vital link between US Clients and the global development team
-* Participating in introductory and technical meetings
-* Engaging with clients to understand their requirements and conveying these to the development team
-* Ensuring clear and effective communication between all parties
-* Effective training and deployment of AI solutions as per client requirement
-
-[www.hiqsolutions.net](http://www.hiqsolutions.net)
 
 ---
 
@@ -186,7 +125,7 @@ Oct 2021 – Dec 2022
 
 ---
 
-## Pakistan Navy
+## [Pakistan Navy](https://www.paknavy.gov.pk/
 
 **Lieutenant Commander**
 Jan 2012 – May 2025
@@ -203,7 +142,6 @@ Jan 2012 – May 2025
 * Served aboard multiple platforms including Type-21 Destroyers, F22P Frigates, and Corvettes, contributing to operational readiness and mission execution.
 * Completed advanced naval and combat training in SEAL operations, close-quarter combat, surface and underwater warfare, helicopter operations, anti-piracy, and office administration.
 
-[https://www.paknavy.gov.pk/](https://www.paknavy.gov.pk/)
 
 ---
 
@@ -225,16 +163,13 @@ Jan 2012 – May 2025
 * Performed keyword research and implemented search engine optimization (SEO) strategies to increase visibility.
 * Delivered high-quality written material aligned with client objectives and brand tone.
 
-## Technical Content Writing | Disruptivera, Medium
+## Technical Content Writing | [Disruptivera]((https://disruptivera.com/), [Medium](https://thesagekhan.medium.com)
 
 2020–2022
 
 * Authored technical blogs and articles on AI, Data Science, and emerging technologies.
 * Conducted topic ideation, keyword analysis, proofreading, and editing for clarity and engagement.
 * Developed technical documentation and tutorials to explain complex AI concepts to general audiences.
-
-[https://disruptivera.com/](https://disruptivera.com/)
-[https://thesagekhan.medium.com](https://thesagekhan.medium.com)
 
 ---
 
@@ -322,7 +257,7 @@ Nov 2025 – Present
 
 # Teaching Experience
 
-## Iqra University
+## [Iqra University](https://www.iqra.edu.pk/)
 
 **Lecturer (Part-Time), Project Supervisor**
 Karachi, Pakistan
@@ -333,11 +268,10 @@ Aug 2024 – Present
 * Delivered professional training sessions at the Professional Development Center (PDC) focusing on applied AI and cybersecurity skills.
 * Supervised student research and capstone projects, guiding project planning, execution, and defense preparation.
 
-[https://www.iqra.edu.pk/](https://www.iqra.edu.pk/)
 
 ---
 
-## Bahria University Karachi
+## [Bahria University](https://bahria.edu.pk/) Karachi
 
 **Lecturer (Part-Time), Project Supervisor**
 Karachi, Pakistan
@@ -347,11 +281,10 @@ Sep 2024 – Oct 2024
 * Developed and refined curricula and instructional content for Business Analytics and Data Science courses.
 * Supervised student projects, providing academic mentorship and technical guidance in data-driven research.
 
-[https://bahria.edu.pk/](https://bahria.edu.pk/)
 
 ---
 
-## National University of Sciences and Technology (NUST)
+## National University of Sciences and Technology ([NUST](https://nust.edu.pk/))
 
 **Instructor, Junior Officer Training Officer, Head of Postgraduate Program**
 Karachi, Pakistan
@@ -364,20 +297,19 @@ Sep 2020 – Dec 2022
 * Performed physical security assessments and policy enforcement at the institutional management level.
 * Delivered professional development courses in Artificial Intelligence and Cybersecurity at NUST’s Professional Development Center.
 * Taught postgraduate courses in Digital Forensics, Ethical Hacking, and Information Security Governance, combining theory with hands-on practice.
-
-[https://nust.edu.pk/](https://nust.edu.pk/)
+ 
 
 ---
 
 # Education
 
-## Marie-Curie PhD Scholar
+## [Marie-Curie PhD Scholar](https://www.ugr.es/personal/muhammad-danyal-khan)
 
 IPM Lab, Universidad de Granada
 Granada, Spain
 July 2025 – Present
 
-Marie Sk lodowska-Curie Actions Personal Docente e Investigador (PhD Scholar)
+Marie Sklodowska-Curie Actions Personal Docente e Investigador (PhD Scholar)
 
 ### Research Work
 
@@ -391,7 +323,6 @@ Marie Sk lodowska-Curie Actions Personal Docente e Investigador (PhD Scholar)
 * Network Security
 * Structural Monitoring
 
-[http://www.ugr.es/en/study/doctoral-programmes](http://www.ugr.es/en/study/doctoral-programmes)
 
 ---
 
@@ -484,7 +415,7 @@ Karachi, Pakistan
 
 # Professional Certifications
 
-## Audio Engineering & Music Production | Audio Institute of America
+## Audio Engineering & Music Production | [Audio Institute of America](https://audioinstituteofamerica.com/index.php/the-course/41.html)
 
 Feb 2016
 
@@ -493,11 +424,10 @@ Feb 2016
 * Developed expertise in music production and arrangement for digital and analog environments.
 * Gained hands-on experience with Digital Audio Workstations (DAWs) and post-production processes.
 
-[https://audioinstituteofamerica.com/index.php/the-course/41.html](https://audioinstituteofamerica.com/index.php/the-course/41.html)
 
 ---
 
-## ISO/IEC 27001:2013 Lead Auditor | IRCA, RICI
+## ISO/IEC 27001:2013 Lead Auditor | IRCA, [RICI](https://ricionline.com/front-page/services/training/iso-27001-2013-lead-auditor-training-course/)
 
 Apr 2024
 
@@ -505,18 +435,15 @@ Apr 2024
 * Credential ID: CQI-ULN-554424 (Certificate #08983).
 * Specialized in Information Security Auditing, Governance, Risk Management, and Compliance (GRC) in alignment with international standards.
 
-[https://ricionline.com/front-page/services/training/iso-27001-2013-lead-auditor-training-course/](https://ricionline.com/front-page/services/training/iso-27001-2013-lead-auditor-training-course/)
 
 ---
 
-## Registered Information Technology Freelancer | Pakistan Software Export Board, Ministry of IT (MoIT)
+## Registered Information Technology Freelancer | [Pakistan Software Export Board](https://techdestination.com), Ministry of IT (MoIT)
 
 May 2025
 
 * Officially registered as an IT Freelancer with the Ministry of IT & Telecom, Government of Pakistan.
 * Registration ID: FL21/PSEB/2025/13053.
-
-[https://techdestination.com](https://techdestination.com)
 
 ---
 
@@ -740,7 +667,7 @@ Granada, Spain
 
 # Projects
 
-## CodeGuardian | Python, Docker, Ollama, Gemini CLI
+## [CodeGuardian](https://github.com/rahimali83/CodeGuardian) | Python, Docker, Ollama, Gemini CLI
 
 2024 – Present
 
@@ -748,29 +675,25 @@ Granada, Spain
 * Implemented multi-model support, including Google Gemini CLI and OpenAI Codex, for comparative evaluation of code-analysis capabilities.
 * Designed a modular pipeline enabling scalable AI-based static review and developer-assist features.
 
-[https://github.com/rahimali83/CodeGuardian](https://github.com/rahimali83/CodeGuardian)
 
 ---
 
-## Ascon Encryption – C Implementation | C, Cryptography
+## [Ascon Encryption](https://github.com/rahimali83/Ascon_Encryption_C_lang_Implementation) – C Implementation | C, Cryptography
 
 2024
 
 * Conducted research and documentation of Ascon, a NIST SP 800-232 Standardized lightweight authenticated encryption algorithm.
 * Analyzed performance and correctness aspects of core primitives on resource-constrained systems.
 
-[https://github.com/rahimali83/Ascon_Encryption_C_lang_Implementation](https://github.com/rahimali83/Ascon_Encryption_C_lang_Implementation)
 
 ---
 
-## Ascon Encryption – Rust Implementation | Rust, Cryptography
+## [Ascon Encryption](https://github.com/rahimali83/Ascon_Encryptioin_Rust_Implementation) – Rust Implementation | Rust, Cryptography
 
 2024
 
 * Performed cryptographic research and documentation for a Rust-based implementation prioritizing memory-safety and performance.
 * Supported alignment with modern lightweight AEAD standards for embedded and IoT applications.
-
-[https://github.com/rahimali83/Ascon_Encryptioin_Rust_Implementation](https://github.com/rahimali83/Ascon_Encryptioin_Rust_Implementation)
 
 ---
 
@@ -784,7 +707,7 @@ Feb 2023 – Jul 2023
 
 ---
 
-## Speech-to-Text for Urdu Language | Bash, Python, Perl, C++, JSON, SQL
+## [Speech-to-Text for Urdu Language](https://github.com/sage-khan/code-switched-noisy-urdu-asr) | Bash, Python, Perl, C++, JSON, SQL
 
 Oct 2021 – Dec 2022
 
@@ -792,11 +715,10 @@ Oct 2021 – Dec 2022
 * Automated Linux-based pipelines with services, cron jobs, and Bash scripts for data cleaning and model execution.
 * Leveraged Kaldi, DeepSpeech, and Vosk frameworks for modeling and evaluation.
 
-[https://github.com/sage-khan/code-switched-noisy-urdu-asr](https://github.com/sage-khan/code-switched-noisy-urdu-asr)
 
 ---
 
-## IoT-Based Temperature and Humidity Detector | Bash, Python, MongoDB
+ ## [IoT-Based Temperature and Humidity Detector](https://github.com/sage-khan/IoT-Thermometer-humidity-sensor) | Bash, Python, MongoDB
 
 Feb – Jun 2021
 
@@ -808,24 +730,22 @@ Feb – Jun 2021
 * Programmed ESP32 microcontroller with temperature/humidity sensors via Arduino on Linux and Windows.
 * Containerized the PoC using Docker for reproducible deployment.
 
-[https://github.com/sage-khan/IoT-Thermometer-humidity-sensor](https://github.com/sage-khan/IoT-Thermometer-humidity-sensor)
 
 ---
 
-## Recruitment Analysis System | Python, HTML, CSS, Power BI
+## [Recruitment Analysis System](https://github.com/sage-khan/Recruitment-Analysis-System) | Python, HTML, CSS, Power BI
 
 2017–2018
 
 * Delivered a final-year MIS capstone focused on recruitment analytics and decision support.
 * Built a proof of concept for data-driven recruitment analysis and candidate evaluation.
 
-[https://github.com/sage-khan/Recruitment-Analysis-System](https://github.com/sage-khan/Recruitment-Analysis-System)
 
 ---
 
 # Publications
 
-## Warrior | Philosopher: Rise of Reyes
+## [Warrior | Philosopher: Rise of Reyes](https://www.amazon.com/dp/B0FT6DRV3D)
 
 September 2025
 Novel
@@ -833,11 +753,10 @@ Amazon Kindle Direct Publishing
 
 Abstract: A contemporary sports drama that fuses mixed martial arts realism with philosophical reflection. The novel follows Tony “The Spartan” Reyes, an MMA contender who rebuilds his career and identity after personal loss, while confronting rivalry, grief, and self-mastery. Through disciplined narrative building and thematic exploration of resilience and stoic thought, the work blends high-intensity fight culture with questions of meaning, identity, and human growth. ASIN: B0FT6DRV3D. ISBN: 978-84-09-77559-0.
 
-[https://www.amazon.com/dp/B0FT6DRV3D](https://www.amazon.com/dp/B0FT6DRV3D)
 
 ---
 
-## Open For Business: Harnessing the Power of Open Source in Corporate World
+## [Open For Business: Harnessing the Power of Open Source in Corporate World](https://www.taylorfrancis.com/books/mono/10.1201/9781003536314/open-business-muhammad-danyal-khan-rahim-ali)
 
 October 2025
 Book
@@ -845,20 +764,17 @@ Taylor & Francis
 
 Abstract: Open for Business by Sage Khan & Rahim Ali explores the transformative role of open-source software in the corporate landscape. It examines the evolution of software licensing, from the early days of copyright and proprietary models, championed by figures like Bill Gates, to the rise of open-source principles driven by the Free Software Foundation and the GNU Project. The book explores how open-source projects, supported by the Linux Foundation, have become integral to modern IT infrastructure, promoting innovation, security, and cost efficiency. It highlights the growing specialization in fields like DevOps, AI, and cybersecurity, and discusses the challenges companies face in maintaining in-house expertise, often leading to outsourcing for convenience. Khan critically assesses the impact of corporate intervention on open-source projects, using case studies of Red Hat, HashiCorp, and others to illustrate how business decisions can sometimes undermine the open-source ethos. Despite these challenges, the book highlights the resilience of the open-source community through initiatives such as project forks and alternative licensing models. ”Open for Business” advocates for the adoption of open-source solutions to enhance organizational learning and flexibility while balancing corporate needs for scalability and support. It calls for a renewed commitment to the principles of transparency, collaboration, and freedom in the software industry. DOI: 10.1201/9781003536314. ISBN: 9781003536314.
 
-[https://www.taylorfrancis.com/books/mono/10.1201/9781003536314/open-business-muhammad-danyal-khan-rahim-ali](https://www.taylorfrancis.com/books/mono/10.1201/9781003536314/open-business-muhammad-danyal-khan-rahim-ali)
 
 ---
 
-## Design and Development of Next-Generation CNC Robotic Machine
+## [Design and Development of Next-Generation CNC Robotic Machine](https://sesjournal.com/index.php/1/article/view/254/235)
 
 Apr 2025
 Research Paper
-SES Journal, Zenodo DOI
+SES Journal, [Zenodo DOI](https://doi.org/10.5281/zenodo.15194642)
 
 Abstract: The rapid evolution of manufacturing technologies has driven the need for more efficient, precise, and adaptive systems. This paper ”Design and Development of Next-Generation CNC Robotic Machine Integrated with Laser Technology for Smart Manufacturing” presents the design and development of a next-generation Computer Numerical Control (CNC) robotic machine integrated with laser technology for smart manufacturing. By combining the advanced capabilities of CNC robotics with the precision of laser systems, the proposed system enhances manufacturing flexibility, accuracy, and automation across diverse industries. State-of-the-art robotic arms, high-power laser tools, and intelligent control systems are integrated to enable multi-material processing, rapid prototyping, and complex part production. The system is engineered with a focus on energy efficiency, safety, and adaptability, incorporating real-time data analytics and predictive maintenance features that align with Industry 4.0 standards. Despite challenges regarding integration complexity and cost, experimental validations demonstrate that this innovative CNC robotic machine offers significant promise in transforming manufacturing practices into smarter, more agile production environments. Future work is anticipated to further optimize the system through the integration of advanced AI and machine learning techniques for adaptive process control.
 
-[https://sesjournal.com/index.php/1/article/view/254/235](https://sesjournal.com/index.php/1/article/view/254/235)
-[https://doi.org/10.5281/zenodo.15194642](https://doi.org/10.5281/zenodo.15194642)
 
 ---
 
@@ -866,12 +782,11 @@ Abstract: The rapid evolution of manufacturing technologies has driven the need 
 
 21 Apr 2025
 Research Paper
-SES Journal, Zenodo DOI
+[SES Journal](https://sesjournal.com/index.php/1/article/view/284), [Zenodo DOI](https://doi.org/10.5281/zenodo.15253910)
 
 Abstract: A Dual Approach to Automation and Safety with Real-Time Monitoring and Alerts - The integration of Internet of Things (IoT) technologies into building management systems has revolutionized the development of smarter, more efficient and safer environments. This paper presents a dual approach to smart building management, emphasizing both automation and safety through real-time monitoring and alert mechanisms. The automation system utilizes bidirectional ultrasonic sensors to monitor building occupancy and, in conjunction with temperature sensors, dynamically adjusts appliances such as lights, fans, air conditioners, and heaters to optimize comfort and energy efficiency. A notable feature of the system is its ability to enable remote monitoring and control of appliances via SMS communication. On the safety front, the system incorporates a suite of IoT sensors including smoke, flame, gas, temperature, and ultrasonic sensors to detect hazards such as fires or gas leaks. In response to such events, the system automatically disconnects circuit breakers, activates alarms for evacuation, and dispatches real-time alert messages to occupants’ mobile devices. This dual-function system enhances operational efficiency, reduces energy consumption, and significantly improves building safety. The paper details the design, implementation, and practical benefits of this integrated IoT-based smart building management solution. ISSN (e) 3007-3138 (p) 3007-312X
 
-[https://sesjournal.com/index.php/1/article/view/284](https://sesjournal.com/index.php/1/article/view/284)
-[https://doi.org/10.5281/zenodo.15253910](https://doi.org/10.5281/zenodo.15253910)
+
 
 ---
 
@@ -879,12 +794,9 @@ Abstract: A Dual Approach to Automation and Safety with Real-Time Monitoring and
 
 07 May 2025
 Review Paper
-SES Journal, DOI
+[SES Journal](https://induspublishers.com/IJBR/article/view/1225), [DOI](https://doi.org/10.70749/ijbr.v3i5.1225)
 
 Abstract: Leveraging Artificial Intelligence in Pharmacy and Clinical Pharmacy Transformative Innovations for Precision, Operational Efficiency, and Enhanced Patient-Centered Care covers that By improving accuracy, operational effectiveness, and patient-centered care, the use of artificial intelligence (AI) in clinical pharmacy and pharmacy is transforming healthcare. Drug discovery, customized medicine, and pharmaceutical treatment management are being optimized by AI-driven advances, including machine learning algorithms, natural language processing, and predictive analytics. AI-powered decision support systems in clinical pharmacies increase workflow efficiency, decrease adverse medication reactions, and improve prescription accuracy. Real-time patient monitoring, AI-assisted drug use evaluations, and automated dispensing robots all help to optimize resources and enhance therapeutic results. Additionally, AI improves drug adherence through digital health interventions such as chatbots, virtual assistants, and smartphone apps that offer instructional help and customized reminders. Drug safety surveillance is strengthened by the early detection of adverse drug responses made possible by the incorporation of AI in pharmacovigilance. Despite these developments, competent AI implementation requires addressing issues including data protection, legal compliance, and ethical considerations. This paper examines how artificial intelligence (AI) is changing pharmacy and clinical pharmacy, highlighting significant advancements, advantages, and difficulties, as well as how it might change the way healthcare is delivered. Pharmacists may adopt a more proactive, data-driven strategy by utilizing AI, which will eventually enhance patient safety, treatment results, and healthcare efficiency. To enable AI’s responsible and successful incorporation into pharmacy practice, future research should concentrate on improving AI algorithms, encouraging multidisciplinary cooperation, and creating strong regulatory frameworks. To satisfy the changing needs of precision medicine and patient-centric healthcare, this study emphasizes the critical necessity for ongoing developments in AI-driven pharmacy solutions. ISSN Print: 2960-2793, ISSN Online: 2960-2807
-
-[https://induspublishers.com/IJBR/article/view/1225](https://induspublishers.com/IJBR/article/view/1225)
-[https://doi.org/10.70749/ijbr.v3i5.1225](https://doi.org/10.70749/ijbr.v3i5.1225)
 
 ---
 
@@ -892,15 +804,13 @@ Abstract: Leveraging Artificial Intelligence in Pharmacy and Clinical Pharmacy T
 
 Jul 2023
 Research Paper
-Arxiv,S2IS
+[Arxiv](https://arxiv.org/abs/2307.12759),S2IS
 
 Abstract: Call Centers have huge amount of audio data, which can be used for achieving valuable business insights and transcription of phone calls is a tedious task when done manually. An effective Automated Speech Recognition system can accurately transcribe these calls for easy search through call history for specific context and content, allowing automatic call monitoring, improving QoS through keyword search and sentiment analysis. ASR for Call Center requires more robustness as the telephonic environment are generally noisy. Moreover, there are many low-resourced languages that are on verge of extinction, which can be preserved with the help of Automatic Speech Recognition Technology. Urdu is the 10th most widely spoken language in the world, with 231,295,440 worldwide, still remains a resource constrained language in ASR. Regional call-center conversations operate in the local language, with a mix of English numbers and technical terms generally causing code-switching problem. Hence, this paper describes an implementation framework of a resource-efficient Automatic Speech Recognition/ Speech to Text System in a noisy call-center environment using Chain Hybrid HMM and CNN-TDNN for Code-Switched Urdu Language. Using Hybrid HMM-DNN approach allowed us to utilize the advantages of Neural Network with less labelled data. Adding CNN with TDNN has been shown to work better in a noisy environment due to CNN’s additional frequency dimension, which captures extra information from noisy speech, thus improving accuracy. We collected data from various open sources and labelled some of the unlabelled data after analysing its general context and content from Urdu language as well as from commonly used words from other languages, primarily English and were able to achieve WER of 5.2% with noisy as well as clean environment in isolated words or numbers as well as in continuous spontaneous speech.
 
-[https://arxiv.org/abs/2307.12759](https://arxiv.org/abs/2307.12759)
-
 ---
 
-## Urdu ASR for Mal-intended Speech
+## [Urdu ASR for Mal-intended Speech](https://www.researchgate.net/publication/365349074_Automatic_Speech_Recognition_to_Detect_MaliciousMal-intended_Speech)
 
 Oct 2022
 Thesis
@@ -911,132 +821,98 @@ NUST-PNEC Research Gate
 * Practical implementation done in CPLC call center
 * Achieved 95% Speech to Text Transcription accuracy on Noisy Telephonic Urdu custom CPLC data using Hybrid HMM-CNN-TDNN Model with Lattice Free MMI Objective Function
 
-[https://www.researchgate.net/publication/365349074_Automatic_Speech_Recognition_to_Detect_MaliciousMal-intended_Speech](https://www.researchgate.net/publication/365349074_Automatic_Speech_Recognition_to_Detect_MaliciousMal-intended_Speech)
 
 ---
 
 # Independent Articles Blogs
 
-## Medium
+# Medium
+2024–Present
 
-2024-Present
-
-* Understanding Recursive Nature of Fractals — Explored the mathematical foundations of self-similarity and recursive algorithms, highlighting their applications in procedural generation and computer graphics.
-* Fractals in Nature — Analyzed biological and geological patterns through the lens of fractal geometry, demonstrating how simple recursive rules manifest in complex natural systems like river networks and lung structures.
-* Charter of Economy and Technology — Proposed a non-partisan framework for Pakistan’s IT sector, emphasizing the need for long-term policy consistency to decouple technological growth from political volatility.
-* Modernizing Legacy Apps with Docker & Kubernetes — Outlined architectural strategies for transitioning monolithic systems to cloud-native microservices, focusing on container orchestration and high-availability deployment.
-* From the First Hard Fall to the Echo of Legend — A philosophical exploration of leadership and resilience, drawing parallels between historical excellence and the requirements for modern technical and ethical leadership.
-* AI in Project Management Practices — Discussed the integration of generative AI into Agile workflows, specifically focusing on automated sprint planning, resource allocation, and predictive risk assessment.
-* AI Vibe: Coding and Policy Enforcement — Examined the ’Vibe Coding’ phenomenon, balancing the speed of natural language development with the necessity of automated security guardrails and architectural linting.
-* Open Source and AI Synergy — Argued for the necessity of open-source ecosystems in AI development to ensure transparency, ethical standards, and the democratization of high-performance models.
-* The DevOps of AI Ecosystem — Defined the MLOps lifecycle, covering the bridge between model training and production-grade deployment through automated evaluation and continuous monitoring.
-* Standard Documentation for Pakistani Citizens — Compiled a comprehensive logistical guide for students and professionals, detailing the bureaucratic and technical requirements for international academic and professional mobility.
-* Braindrain & Bureaucracy — Investigated the systemic causes of talent migration in Pakistan and advocated for digital-first policies and remote-work hubs to retain local intellectual capital.
-* Model Context Protocol: Hype, Anti-Pattern, or Standard? — Analyzed the emerging open standard for LLM-data integration and its role in decoupling agentic workflows from proprietary interfaces.
-* Beyond ChatGPT with a UI: Why AI Wrappers Matter — Investigated strategies for building defensible AI-native startups by leveraging vertical domain depth, proprietary data moats, and workflow integration.
-* Potential of Pakistan in the Renewable Sector — Explored Pakistan’s 2.9M MW solar potential and proposed policy reforms like smart-grid integration and localized manufacturing for energy independence.
-* Rulefiles in AI-Powered Development — Outlined a paradigm shift in AI-assisted coding using version-controlled instruction sets to enforce architectural standards and security policies.
-* Ascon: The Tiny Titan of IoT Security — Conducted a deep technical dive into the NIST-standardized lightweight cryptographic algorithm, focusing on efficiency in resource-constrained IoT devices.
-* Open Source in the Corporate World — Discussed achieving technological sovereignty and operational agility through the strategic adoption of open-source architectures and enterprise toolsets.
-* DevOps for Data: Apache Spark on Containers — Detailed the integration of big data workloads into CI/CD pipelines via containerized Spark, data-quality gates, and multi-tenant resource management on Kubernetes.
-
-[https://medium.com/@thesagekhan](https://medium.com/@thesagekhan)
-[https://thesagekhan.medium.com/understanding-the-recursive-nature-of-fractals-15c7d0d0d7ca](https://thesagekhan.medium.com/understanding-the-recursive-nature-of-fractals-15c7d0d0d7ca)
-[https://thesagekhan.medium.com/where-do-we-see-fractals-in-nature-39ac15b95590](https://thesagekhan.medium.com/where-do-we-see-fractals-in-nature-39ac15b95590)
-[https://thesagekhan.medium.com/beyond-political-cycles-why-pakistan-needs-charters-of-economy-and-it-75d178920d63](https://thesagekhan.medium.com/beyond-political-cycles-why-pakistan-needs-charters-of-economy-and-it-75d178920d63)
-[https://thesagekhan.medium.com/the-world-is-beyond-monolith-modernizing-legacy-apps-with-docker-kubernetes-0f26289a297c](https://thesagekhan.medium.com/the-world-is-beyond-monolith-modernizing-legacy-apps-with-docker-kubernetes-0f26289a297c)
-[https://thesagekhan.medium.com/from-the-first-hard-fall-to-the-echo-of-legend-calling-new-heroes-to-rise-f0aabf006983](https://thesagekhan.medium.com/from-the-first-hard-fall-to-the-echo-of-legend-calling-new-heroes-to-rise-f0aabf006983)
-[https://thesagekhan.medium.com/the-role-of-ai-in-project-management-practices-100cd603b080](https://thesagekhan.medium.com/the-role-of-ai-in-project-management-practices-100cd603b080)
-[https://thesagekhan.medium.com/ai-vibe-coding-and-policy-enforcement-9a241ef97926](https://thesagekhan.medium.com/ai-vibe-coding-and-policy-enforcement-9a241ef97926)
-[https://thesagekhan.medium.com/open-minds-open-code-the-synergy-of-open-source-and-artificial-intelligence-e132a3023341](https://thesagekhan.medium.com/open-minds-open-code-the-synergy-of-open-source-and-artificial-intelligence-e132a3023341)
-[https://thesagekhan.medium.com/the-devops-of-ai-ecosystem-8ae2d90301e6](https://thesagekhan.medium.com/the-devops-of-ai-ecosystem-8ae2d90301e6)
-[https://thesagekhan.medium.com/standard-documentation-check-off-list-for-pakistani-citizens-aspiring-to-move-abroad-for-higher-148a0af1dfb1](https://thesagekhan.medium.com/standard-documentation-check-off-list-for-pakistani-citizens-aspiring-to-move-abroad-for-higher-148a0af1dfb1)
-[https://thesagekhan.medium.com/braindrain-bureaucracy-how-the-pakistani-system-forces-its-talent-out-of-the-country-and-how-58bbfa5c77e9](https://thesagekhan.medium.com/braindrain-bureaucracy-how-the-pakistani-system-forces-its-talent-out-of-the-country-and-how-58bbfa5c77e9)
-[https://thesagekhan.medium.com/model-context-protocol-hype-or-anti-pattern-or-a-standard-0190049a6071](https://thesagekhan.medium.com/model-context-protocol-hype-or-anti-pattern-or-a-standard-0190049a6071)
-[https://thesagekhan.medium.com/beyond-chatgpt-with-a-ui-why-ai-wrapper-companies-still-matter-if-they-play-it-smart-0207ec253a97](https://thesagekhan.medium.com/beyond-chatgpt-with-a-ui-why-ai-wrapper-companies-still-matter-if-they-play-it-smart-0207ec253a97)
-[https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5](https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5)
-[https://thesagekhan.medium.com/how-rulefiles-are-transforming-ai-powered-development-why-writing-once-beats-prompting-forever-23f4b5f720bb](https://thesagekhan.medium.com/how-rulefiles-are-transforming-ai-powered-development-why-writing-once-beats-prompting-forever-23f4b5f720bb)
-[https://thesagekhan.medium.com/ascon-the-tiny-titan-of-iot-security-a-deep-technical-dive-8273ab4786b6](https://thesagekhan.medium.com/ascon-the-tiny-titan-of-iot-security-a-deep-technical-dive-8273ab4786b6)
-[https://thesagekhan.medium.com/open-for-business-harnessing-the-power-of-open-source-in-the-corporate-world-1ee402aa3d8b](https://thesagekhan.medium.com/open-for-business-harnessing-the-power-of-open-source-in-the-corporate-world-1ee402aa3d8b)
-[https://medium.com/@thesagekhan/devops-for-data-delivering-and-orchestrating-apache-spark-on-containers-05addabaa11d](https://medium.com/@thesagekhan/devops-for-data-delivering-and-orchestrating-apache-spark-on-containers-05addabaa11d)
+* [Understanding Recursive Nature of Fractals](https://thesagekhan.medium.com/understanding-the-recursive-nature-of-fractals-15c7d0d0d7ca) — Explored the mathematical foundations of self-similarity and recursive algorithms, highlighting their applications in procedural generation and computer graphics.
+* [Fractals in Nature](https://thesagekhan.medium.com/where-do-we-see-fractals-in-nature-39ac15b95590) — Analyzed biological and geological patterns through the lens of fractal geometry, demonstrating how simple recursive rules manifest in complex natural systems like river networks and lung structures.
+* [Charter of Economy and Technology](https://thesagekhan.medium.com/beyond-political-cycles-why-pakistan-needs-charters-of-economy-and-it-75d178920d63) — Proposed a non-partisan framework for Pakistan’s IT sector, emphasizing the need for long-term policy consistency to decouple technological growth from political volatility.
+* [Modernizing Legacy Apps with Docker & Kubernetes](https://thesagekhan.medium.com/the-world-is-beyond-monolith-modernizing-legacy-apps-with-docker-kubernetes-0f26289a297c) — Outlined architectural strategies for transitioning monolithic systems to cloud-native microservices, focusing on container orchestration and high-availability deployment.
+* [From the First Hard Fall to the Echo of Legend](https://thesagekhan.medium.com/from-the-first-hard-fall-to-the-echo-of-legend-calling-new-heroes-to-rise-f0aabf006983) — A philosophical exploration of leadership and resilience, drawing parallels between historical excellence and the requirements for modern technical and ethical leadership.
+* [AI in Project Management Practices](https://thesagekhan.medium.com/the-role-of-ai-in-project-management-practices-100cd603b080) — Discussed the integration of generative AI into Agile workflows, specifically focusing on automated sprint planning, resource allocation, and predictive risk assessment.
+* [AI Vibe: Coding and Policy Enforcement](https://thesagekhan.medium.com/ai-vibe-coding-and-policy-enforcement-9a241ef97926) — Examined the ’Vibe Coding’ phenomenon, balancing the speed of natural language development with the necessity of automated security guardrails and architectural linting.
+* [Open Source and AI Synergy](https://thesagekhan.medium.com/open-minds-open-code-the-synergy-of-open-source-and-artificial-intelligence-e132a3023341) — Argued for the necessity of open-source ecosystems in AI development to ensure transparency, ethical standards, and the democratization of high-performance models.
+* [The DevOps of AI Ecosystem](https://thesagekhan.medium.com/the-devops-of-ai-ecosystem-8ae2d90301e6) — Defined the MLOps lifecycle, covering the bridge between model training and production-grade deployment through automated evaluation and continuous monitoring.
+* [Standard Documentation for Pakistani Citizens](https://thesagekhan.medium.com/standard-documentation-check-off-list-for-pakistani-citizens-aspiring-to-move-abroad-for-higher-148a0af1dfb1) — Compiled a comprehensive logistical guide for students and professionals, detailing the bureaucratic and technical requirements for international academic and professional mobility.
+* [Braindrain & Bureaucracy](https://thesagekhan.medium.com/braindrain-bureaucracy-how-the-pakistani-system-forces-its-talent-out-of-the-country-and-how-58bbfa5c77e9) — Investigated the systemic causes of talent migration in Pakistan and advocated for digital-first policies and remote-work hubs to retain local intellectual capital.
+* [Model Context Protocol: Hype, Anti-Pattern, or Standard?](https://thesagekhan.medium.com/model-context-protocol-hype-or-anti-pattern-or-a-standard-0190049a6071) — Analyzed the emerging open standard for LLM-data integration and its role in decoupling agentic workflows from proprietary interfaces.
+* [Beyond ChatGPT with a UI: Why AI Wrappers Matter](https://thesagekhan.medium.com/beyond-chatgpt-with-a-ui-why-ai-wrapper-companies-still-matter-if-they-play-it-smart-0207ec253a97) — Investigated strategies for building defensible AI-native startups by leveraging vertical domain depth, proprietary data moats, and workflow integration.
+* [Potential of Pakistan in the Renewable Sector](https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5) — Explored Pakistan’s 2.9M MW solar potential and proposed policy reforms like smart-grid integration and localized manufacturing for energy independence.
+* [Rulefiles in AI-Powered Development](https://thesagekhan.medium.com/how-rulefiles-are-transforming-ai-powered-development-why-writing-once-beats-prompting-forever-23f4b5f720bb) — Outlined a paradigm shift in AI-assisted coding using version-controlled instruction sets to enforce architectural standards and security policies.
+* [Ascon: The Tiny Titan of IoT Security](https://thesagekhan.medium.com/ascon-the-tiny-titan-of-iot-security-a-deep-technical-dive-8273ab4786b6) — Conducted a deep technical dive into the NIST-standardized lightweight cryptographic algorithm, focusing on efficiency in resource-constrained IoT devices.
+* [Open Source in the Corporate World](https://thesagekhan.medium.com/open-for-business-harnessing-the-power-of-open-source-in-the-corporate-world-1ee402aa3d8b) — Discussed achieving technological sovereignty and operational agility through the strategic adoption of open-source architectures and enterprise toolsets.
+* [DevOps for Data: Apache Spark on Containers](https://medium.com/@thesagekhan/devops-for-data-delivering-and-orchestrating-apache-spark-on-containers-05addabaa11d) — Detailed the integration of big data workloads into CI/CD pipelines via containerized Spark, data-quality gates, and multi-tenant resource management on Kubernetes.
 
 ---
 
 # Public Speaking
 
-## Pakistan’s Wind Power Revolution:Turning Coastal Breezes into Energy | News 99
+## [Pakistan’s Wind Power Revolution: Turning Coastal Breezes into Energy | News 99](https://youtu.be/M-xRRgxfxLY)
 
 14 October 2025
 
-* Featured on Frontline with Tazmeen Javaid discussing the potential of renewable energy in Pakistan and the role of the IntelliWind EU project on improving the Wind Energy sector, followed by a detailed article on medium.com.
+* Featured on Frontline with Tazmeen Javaid discussing the potential of renewable energy in Pakistan and the role of the IntelliWind EU project on improving the Wind Energy sector, followed by a detailed [article on medium.com](https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5).
 
-## Brain Drain and Bureaucracy in Pakistan | News 99
+## [Brain Drain and Bureaucracy in Pakistan | News 99](https://youtu.be/hZrwIsi2JFY?si=9BXCreH99uVy0jHL)
 
 01 Aug 2025
 
 * Featured on Frontline with Tazmeen Javaid discussing brain drain, bureaucracy, and the potential of AI and blockchain in public-sector reform.
 
-## Will Artificial Intelligence Take Jobs Or Create New Opportunities? | News 99
+## [Will Artificial Intelligence Take Jobs Or Create New Opportunities? | News 99](https://www.youtube.com/watch?v=vLbHSUjsUx8)
 
 16 Apr 2025
 
 * Appeared on Frontline with Tazmeen Javaid with Saim Safder, covering AI’s impact on creativity, research, and the future of work.
 
-## The Impact of Pakistan’s Slow Internet on the Economy | News 99
+## [The Impact of Pakistan’s Slow Internet on the Economy | News 99](https://youtu.be/Vp77fTwkQfg?si=tBJuv99h10PNacbm)
 
 18 Feb 2025
 
 * Discussed how limited internet connectivity affects productivity, competitiveness, and economic growth, highlighting digital infrastructure challenges and solutions.
 
-## DeepSeek and Impact on Other LLMs | News 99
+## [DeepSeek and Impact on Other LLMs | News 99](https://www.youtube.com/watch?v=Z7YVXz4Z0Mg)
 
 30 Jan 2025
 
 * Explored DeepSeek and strategic implications for AI competitiveness, including China–US dynamics in advanced AI.
 
-## State of Linux Kernel | Cloud Native FM (Saim Safder)
+## [State of Linux Kernel | Cloud Native FM (Saim Safder)](https://www.youtube.com/watch?v=nEcpNFMRo8Q)
 
 18 Jan 2025
 
 * Joined Cloud Native FM podcast to discuss Linux kernel trends and AI development considerations.
 
-## Cyber Security for Kids | Pakistan Navy
+## [Cyber Security for Kids | Pakistan Navy](https://fb.watch/r5txJVJUCP/)
 
 20 Feb 2024
 
 * Delivered an online session on cybersecurity awareness tailored for children and parents.
 
-## AI and Cyber Security | AI Center of Pakistan
+## [AI and Cyber Security | AI Center of Pakistan](https://fb.watch/r5slwH56ry/)
 
 20 Feb 2024
 
 * Presented an applied session on AI and cybersecurity, focusing on risks, controls, and safe adoption.
 
-## Spendless Academy | Remote Trainer
+## [Spendless Academy | Remote Trainer](https://www.linkedin.com/company/sc-academy/)
 
 Aug 2018 – May 2022
 
 * Launched online instruction prior to widespread remote learning, building early distance-teaching experience.
 * Taught speed reading, memory improvement, meditation, and the Silva UltraMind ESP system.
 
-## Bahria University | Workshop Facilitator
+## [Bahria University | Workshop Facilitator](https://www.bukc.com)
 
 2022
 
 * Facilitated Navigating the Digital World workshop for student psychologists (Bachelor’s).
 * Strengthened research skills, fact-checking, and information verification practices.
-
-[https://youtu.be/M-xRRgxfxLY](https://youtu.be/M-xRRgxfxLY)
-[https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5](https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5)
-[https://youtu.be/hZrwIsi2JFY?si=9BXCreH99uVy0jHL](https://youtu.be/hZrwIsi2JFY?si=9BXCreH99uVy0jHL)
-[https://www.youtube.com/watch?v=vLbHSUjsUx8](https://www.youtube.com/watch?v=vLbHSUjsUx8)
-[https://youtu.be/Vp77fTwkQfg?si=tBJuv99h10PNacbm](https://youtu.be/Vp77fTwkQfg?si=tBJuv99h10PNacbm)
-[https://www.youtube.com/watch?v=Z7YVXz4Z0Mg](https://www.youtube.com/watch?v=Z7YVXz4Z0Mg)
-[https://www.youtube.com/watch?v=nEcpNFMRo8Q](https://www.youtube.com/watch?v=nEcpNFMRo8Q)
-[https://fb.watch/r5txJVJUCP/](https://fb.watch/r5txJVJUCP/)
-[https://fb.watch/r5slwH56ry/](https://fb.watch/r5slwH56ry/)
-[https://www.linkedin.com/company/sc-academy/](https://www.linkedin.com/company/sc-academy/)
-[https://www.bukc.com](https://www.bukc.com)
 
 ---
 
@@ -1048,7 +924,7 @@ Aug 2018 – May 2022
 
 * Served as a commissioned Naval Officer in operational and instructional roles.
 * Led technical and operational teams in maritime security, communications, and navigation environments.
-* Managed shipboard responsibilities including watch keeping, secure communications, and operational coordination.
+* Managed shipboard responsibilities including watchkeeping, secure communications, and operational coordination.
 * Conducted training sessions for junior officers and sailors in navigation, electronic warfare, and information security practices.
 * Participated in national maritime security operations, contributing to coastal defense and law enforcement support.
 
@@ -1100,7 +976,7 @@ European Commission
 2025
 
 * Selected as a Marie-Curie PhD Scholar under the MSCA program.
-* Awarded fully funded doctoral scholarship based on research excellence and proposal merit.
+* Awarded a fully funded doctoral scholarship based on research excellence and proposal merit.
 
 ---
 
