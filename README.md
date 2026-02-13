@@ -240,7 +240,7 @@ Aug 2024 – In Progress
 
 ---
 
-# Senior AI Consultant | Nova Tech (Built Pulse)
+# Senior AI Consultant | Nova Tech ([Built Pulse](https://builtpulse.com/))
 
 Nov 2025 – Present
 
@@ -251,7 +251,6 @@ Nov 2025 – Present
 * Designing a multi-agent orchestration framework utilizing LangChain, CrewAI, and n8n.io, built on a backend of Python 3.11, FastAPI, RabbitMQ, and Redis for scalable asynchronous processing.
 * Drafting end-to-end AI/ML product development SOPs and security protocols for IP protection, while facilitating weekly technical workshops for core engineering teams on agentic architectures.
 
-[https://builtpulse.com/](https://builtpulse.com/)
 
 ---
 
