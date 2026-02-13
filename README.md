@@ -125,7 +125,7 @@ Oct 2021 – Dec 2022
 
 ---
 
-## [Pakistan Navy](https://www.paknavy.gov.pk/
+## [Pakistan Navy](https://www.paknavy.gov.pk/)
 
 **Lieutenant Commander**
 Jan 2012 – May 2025
