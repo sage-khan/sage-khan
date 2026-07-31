@@ -50,8 +50,8 @@
 
 ### Quantia Ingeniería y Consultoría, S.L. | 1 Jun 2026 – 31 Dec 2026
 
-**MSCA Industry Secondment – System Architect, Project Cogtwins** | Industry-Attached (IPM Lab/UGR affiliation continues)
-- Serving as **System Architect** (OT1–OT3: semantic core, polyglot persistence, trust-first governance) on **Project Cogtwins (COGTWINS26)**, a Spanish R&D tax-incentive project (titleholder AI 4 INFRA 2026 A.I.E., developer Quantia Ingeniería y Consultoría) building **VERITAS-WF**, a TRL-3 to 6 neuro-symbolic Cognitive Digital Twin for wind-farm O&M over a polyglot store (Neo4j, Qdrant, OpenSearch, TimescaleDB, Postgres, MinIO); own the federated knowledge-graph/ontology layer, a **Trust Record + MCDM** scoring engine, FCA/Petri-net/SAT-SMT neuro-symbolic checks, an **Agent Control Center** (DID/VC agent identity, Cedar-style policy gating), and a hash-chained audit ledger anchored on **Hyperledger Fabric**, deployed at `veritas.ugr.es`.
+**Researcher (MSCA Industry Secondment)** | Industry-Attached (IPM Lab/UGR affiliation continues)
+- Serving as **Researcher** on **Project Cogtwins (COGTWINS26)**, a Spanish R&D tax-incentive project (titleholder AI 4 INFRA 2026 A.I.E., developer Quantia Ingeniería y Consultoría), functioning in a de facto **system-architect** capacity across OT1 to OT3 (semantic core, polyglot persistence, trust-first governance) for **VERITAS-WF**, a TRL-3 to 6 neuro-symbolic Cognitive Digital Twin for wind-farm O&M over a polyglot store (Neo4j, Qdrant, OpenSearch, TimescaleDB, Postgres, MinIO); own the federated knowledge-graph/ontology layer, a **Trust Record + MCDM** scoring engine, FCA/Petri-net/SAT-SMT neuro-symbolic checks, an **Agent Control Center** (DID/VC agent identity, Cedar-style policy gating), and a hash-chained audit ledger anchored on **Hyperledger Fabric**, deployed at `veritas.ugr.es`.
 
 ### Project Lead – DataOps Initiative | Mar 2025 – Present
 
