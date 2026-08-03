@@ -504,6 +504,12 @@
 - Implemented global UUID-based provenance system spanning polyglot stores.
 - Open-sourced the specification, ontology, and adapter layers under the [Veritas AI DB GitHub organization](https://github.com/veritas-aidb) (`veritas-spec`, `veritas-ontology`, `veritas-adapters`), while the core orchestration engine and PhD-thesis-backed research implementation continue as active, closed development.
 
+**Symphysis** | *Founder: Python, FastAPI, React, Ollama, PyMC* | Aug 2026 – Present
+- Built a config-driven, replicable agent-panel engine for expert-elicitation surveys, the general-purpose successor to the Blockchain Suitability Index survey tooling built for **Project Veritas**'s TrustRouter/BSI research: every agent is defined by a portable, self-certifying Agent Card (`did:key` identity, role, model, RAG corpus, permissions, guardrails), so a survey configuration and its identical agent panel can be respawned anywhere from one JSON file per agent.
+- Implemented the Best-Worst Method (classical linear-program and Bayesian/PyMC solvers, verified against the original authors' reference implementations) and the Analytic Hierarchy Process, plus a hierarchical-BWM instrument for multi-level composite decision frameworks, behind one pluggable instrument interface.
+- Built guardrails an agent panel actually needs to be trustworthy evidence, not just automation: schema-validated and denylist-scanned responses, multiple independent samples per agent rather than one completion treated as ground truth, a QA self-verification pre-check and post-check per agent, and a tamper-evidence hash manifest over every run's full audit trail.
+- Planned as an open-source release (Apache 2.0, matching Project Veritas's own licensing) alongside the TrustRouter/BSI paper's publication.
+
 **[CodeGuardian](https://github.com/rahimali83/CodeGuardian)** | *Python, Docker, Ollama, Gemini CLI* | 2024 – Present
 - Integrated **Ollama** to enable **offline code review** workflows using open-source LLMs for enhanced privacy and local security.
 - Implemented **multi-model support**, including Google **Gemini CLI** and OpenAI **Codex**, for comparative evaluation of code-analysis capabilities.
