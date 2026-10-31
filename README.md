@@ -15,14 +15,17 @@
 
 ## Professional Summary
 
-*A Dynamic, cross-domain system thinker and versatile professional with cross-domain expertise in **Cybersecurity, Artificial Intelligence, DevOps, and Open-Source Systems**. Marie Skłodowska-Curie PhD Scholar specializing in the convergence of Artificial Intelligence, Cybersecurity, and Decentralized Infrastructure. Bridged the gap between mission-critical physical assets (autonomous wind farms, naval platforms) and advanced digital logic (agentic LLM frameworks, blockchain ontologies). Leveraging a dual background as a former Naval Officer and a Senior AI Developer, architected "trust-aware" systems that prioritize security, explainability, and scalability. A visionary leader experienced in guiding cross-cultural, cross-domain teams across **military, academic, and corporate ecosystems**. As a Project Lead for the Linux Foundation’s CD Foundation, defined the frameworks that shape the global DataOps landscape. My work—ranging from published technical authorship to the development of polyglot-persistence agentic databases (Project Veritas)—is driven by a commitment to technological sovereignty, open-source advocacy, and the human-centric leadership required to guide cross-domain teams through complex digital transformations. Demonstrated a proven ability to deliver **secure, scalable, and high-impact AI solutions** at the intersection of technology, leadership, and education. Published author of the book "Open for Business," exploring the integration of open-source technologies into corporate IT infrastructures. Regularly writes content on cybersecurity, AI, and self-help, showcasing a commitment to bridging technical expertise with practical insights. Driven by a passion for secure and scalable digital ecosystems, contribute to the intersection of technology and sustainability through innovative research and thought leadership. Featured as an **AI & Cybersecurity Expert** on Cloud Native FM Podcast and **Frontline with Tazmeen Javaid (News 99)**.*
+*Marie Skłodowska-Curie PhD Scholar and cross-domain systems thinker in **Cybersecurity, Artificial Intelligence, DevOps, and Open-Source Systems**, specializing in the convergence of AI, cybersecurity, and decentralized infrastructure. Bridged mission-critical physical assets (autonomous wind farms, naval platforms) and advanced digital logic (agentic LLM frameworks, blockchain ontologies). Architected **ontology-governed knowledge graphs** (OWL, SHACL, SPARQL, R2RML virtual knowledge graphs), **ETL/ELT and document-processing pipelines** (Dagster, Kafka, TimescaleDB, Docling/OCR), and **agentic AI systems** with federated GraphRAG, tiered agent memory, and on-demand context loading, built and deployed on real wind-farm operational data at industrial scale (15M+ SCADA rows). Combined a former Naval Officer's discipline with Senior AI Developer experience to design "trust-aware" systems that prioritize security, explainability, and scalability. Led cross-cultural, cross-domain teams across **military, academic, and corporate ecosystems**. As Project Lead for the Linux Foundation's CD Foundation, defined the frameworks that shape the global DataOps landscape. Developed polyglot-persistence agentic databases (Project Veritas) and delivered **secure, scalable, high-impact AI solutions** at the intersection of technology, leadership, and education. Authored the book "Open for Business" (Taylor & Francis, 2025) on integrating open-source technologies into corporate IT infrastructures, and wrote articles on cybersecurity, AI, and self-help. Featured as an **AI & Cybersecurity Expert** on Cloud Native FM Podcast and **Frontline with Tazmeen Javaid (News 99)**. Driven by technological sovereignty, open-source advocacy, and human-centric leadership.*
 
 ## Skills
+
 - **Spoken Languages**: English (C1 R/W/S), Urdu (C1 R/W/S), Arabic (A2 R/W/S), Russian (A1 R/W/S), Spanish (B2 R/W/S), Punjabi (S), Pushto (S)
 - **Programming Languages**: Python, R, C++, Bash, Java, SQL, HTML/CSS, JavaScript, LaTeX, Markdown. Skilled in LLM prompting, fine-tuning, and integration across models such as GPT, LLaMA, Mistral, and LLaVA.
 - **AI & Machine Learning Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, LangChain, LlamaIndex, OpenLLM, LM Studio, Ollama, Unsloth, LlamaFactory. Hands-on experience with model deployment, RAG pipelines, and fine-tuning.
 - **Data Science & Analytics**: Data Analysis, NLP, Generative AI, RAG, ETL, Data Warehousing, Business Intelligence, Tesseract OCR, OCRmyPDF, Power BI, Jupyter, Anaconda.
-- **ETL & Workflow Automation Tools**: Airflow, Airbyte, PySpark, Knime, Unstructured.io, n8n.io, Crew AI.
+- **ETL/ELT & Data Pipeline Engineering**: Dagster (asset-based Bronze/Silver/Gold pipelines, asset checks, sensors, GraphQL API), Airflow, Airbyte, Apache Kafka (event-driven sync, Saga pattern), PySpark, Knime, Unstructured.io, n8n.io, Crew AI, Great Expectations; medallion architecture; ELT landing of raw CSV into TimescaleDB hypertables with continuous aggregates and typed views; multi-format ingestion lanes (PDF, CSV/XLSX, DOCX, text) with SHA-256 dedup, malware quarantine, and quality gates; document extraction with Docling, Tesseract OCR, layout/table analysis, and vision-LLM image description; cross-store UUID lineage and provenance.
+- **Knowledge Graphs & Ontology Engineering**: OWL/RDF (Turtle), RDFS, SKOS, SHACL (pySHACL validation gates), rdflib, SPARQL 1.1, Cypher, Neo4j, Oxigraph, Apache Jena Fuseki, Ontop OBDA / virtual knowledge graphs over R2RML mappings; upper-ontology alignment (SOSA, PROV-O, DCAT) and domain ontologies (WEO, FMECA, Blade Damage Ontology, IEA Wind Task 43, WindIO); competency-question (Minimum Viable Ontology) governance; entity resolution and KG fusion (`owl:sameAs` proposals via lexical similarity + LLM adjudication); Formal Concept Analysis for LLM-guided ontology generation; multi-tenant triple-store benchmarking.
+- **Agentic AI & Context Engineering**: LLM agent orchestration (LangChain, LlamaIndex, CrewAI, n8n), on-prem inference with Ollama (Qwen2.5 32B, Qwen2.5-VL, Llama 3.2, gemma3, nomic-embed-text), federated GraphRAG (vector + BM25 + graph retrieval fused with RRF), text-to-SPARQL and text-to-SQL, LLM-generated R2RML mappings, three-tier agent memory (working/episodic/semantic), on-demand context loading for coding agents (rules, skills, memory), Model Context Protocol, answer provenance tracing, agent identity (W3C DID/VC, Ed25519) and Cedar-style policy gates, signed verifiable decision receipts.
 - **Cloud & Infrastructure Platforms**: AWS, Azure, Google Cloud Platform (GCP), Oracle Cloud, Digital Ocean, RunPod, Proxmox, OpenStack, VMware. Proficient in containerized and virtualized environments.
 - **DevOps & MLOps**: Docker, Kubernetes, Terraform, Git, CI/CD (GitHub Actions, Jenkins), AWS SageMaker, MLflow, Kaggle. Experience in automated deployment pipelines and model lifecycle management.
 - **Cybersecurity & GRC Frameworks**: NIST CSF, ISO 27001, SOC 2, PCI DSS, HIPAA, Eramba, JupiterOne, Wazuh SIEM/SOC. Skilled in InfoSec audits, Governance, Risk Management, Compliance, Digital Forensics, and Incident Response.
@@ -40,20 +43,34 @@
 ### [IPM Lab Universidad de Granada](https://ipmlab.ugr.es/) | 1 Sept 2025 – Present
 
 **[MSCA Personal Docente e Investigador](https://www.ugr.es/personal/muhammad-danyal-khan)** | Onsite
-- Research on topic [**Secure IT framework for autonomous wind farm operation and maintenance based on blockchain, smart contracts and AI**](https://cordis.europa.eu/project/id/101168725) under Dr. Manuel Chiachio Ruano and Dr. Juan Chiachio Ruano, along with Dr. Juan Fernandez (QUANTIA ENGINEERING & CONSULTANCY, S.L.), as part of the [**IntelliWind**](https://intelliwind.eu/danyalkhansage) Marie Skłodowska-Curie Doctoral Network (Horizon Europe, Sep 2024 – Aug 2028), for development of a secure, trustworthy, explainable, and interactive structural health monitoring (SHM) platform for wind farms combining AI algorithms, decentralized knowledge graphs, and blockchain.
-- Collaborated with Industry Partners, i.e., NADARA and Quantia, to develop an efficient multi-modal Database with blockchain for wind farm and solar farm data.
-- Architected and built [**Project Veritas**](https://github.com/sage-khan/project-veritas), a blockchain-powered, ontology-aware agentic Polyglot Persistence Database processing real SCADA datasets from **NADARA and Penmanshiel wind farms**; introduced **dual-uncertainty quality scoring** (parametric + approximation uncertainty via multi-fidelity Gaussian Process fusion) as a novel data-trust contribution targeted for **SIGMOD 2027** publication.
+- Researched [**Secure IT framework for autonomous wind farm operation and maintenance based on blockchain, smart contracts and AI**](https://cordis.europa.eu/project/id/101168725) under Dr. Manuel Chiachio Ruano and Dr. Juan Chiachio Ruano, along with Dr. Juan Fernandez (QUANTIA ENGINEERING & CONSULTANCY, S.L.), within the [**IntelliWind**](https://intelliwind.eu/danyalkhansage) Marie Skłodowska-Curie Doctoral Network (Horizon Europe, Sep 2024 – Aug 2028), targeting a secure, trustworthy, explainable, and interactive structural health monitoring (SHM) platform for wind farms that combines AI algorithms, decentralized knowledge graphs, and blockchain.
+- Collaborated with industry partners NADARA and Quantia to develop an efficient multi-modal database with blockchain for wind-farm and solar-farm data.
+- Architected and built [**Project Veritas**](https://github.com/sage-khan/project-veritas) (PhD system), a blockchain-powered, ontology-aware agentic Polyglot Persistence Database of 10 microservices processing real SCADA, maintenance, and document datasets from **NADARA and Penmanshiel wind farms**; introduced **dual-uncertainty quality scoring** (parametric + approximation uncertainty via multi-fidelity Gaussian Process fusion and Bayesian confidence bounds) as a novel data-trust contribution, so that high-uncertainty data is routed to review instead of the trusted tier.
+- Made storage placement an **ontology query rather than hard-coded logic**: authored a wind-energy domain ontology (derived from IEA Wind Task 43, OperationsOntology, and NREL WindIO) with class-level routing rules, loaded it into Neo4j and PostgreSQL, and had the routing engine resolve `(:OntologyClass)-[:ROUTES_TO]->(:Database)` at runtime, so new data types are onboarded by editing the ontology, with subclasses inheriting their parent's routing.
+- Built a **medallion ETL flow** (Bronze raw in a MinIO data lake, Silver validated with Great Expectations and uncertainty scoring, Gold routed to polyglot stores, Platinum served through GraphRAG) with a watchdog file-ingestion service, an LLM agent that classifies each incoming file to an ontology entity type, and an OCR document processor; instrumented end to end with **OpenTelemetry, Prometheus, Grafana, Tempo, and Loki**.
 - Designed **cross-database provenance** with UUID linkage and Kafka/Saga-pattern event sync across 7 polyglot stores (PostgreSQL, Neo4j, OpenSearch, Qdrant, Redis, TimescaleDB, Hyperledger Fabric), and an agentic **GraphRAG** retrieval layer (Neo4j + Qdrant hybrid) with local LLM reasoning via Ollama.
-- Founded and lead [**Agentic AI Polyglot DataOps Security**](https://github.com/sage-khan/agenticai-polyglot-dataops-security) as **Principal Investigator**, directing student researchers in **STRIDE threat modeling** and attack-tree analysis of the Veritas architecture family (ontology-driven routing, agent orchestration, trust-scoring pipeline, polyglot-store adapters, blockchain anchoring), mapping surviving threats to concrete mitigations toward a security-analysis publication.
+- Engineered **agent context management**: a three-tier agent memory (working memory in Redis, episodic in PostgreSQL, semantic in Neo4j, with update/condense/prune operations) and an agentic query agent that turns natural-language questions into parallel, dynamically constructed Cypher and SQL queries across the polyglot stores instead of fixed templates.
+- Co-authored [**Subrules**](https://github.com/sage-khan/subskill-subrules), a context-engineering study of on-demand loading of coding-agent rules, skills, and memory in place of static full-context concatenation; measured a **75.9% reduction in per-task rule-loading token cost** (manuscript near-complete, target: Empirical Software Engineering).
+- Led research on a **tracked programme of 20 papers and books**; ontology, KG, and pipeline manuscripts in preparation included: *VERITAS: An Ontology-Aware Polyglot Persistence Architecture for Industrial Agentic DataOps* (active manuscript, target Open Research Europe); a survey, *Towards Trust-First Agentic Data Operations* (active manuscript, 604 cited works screened from a 3,311-entry catalogue); *FCA-Guided Ontology Generation with LLMs* (mature draft with results on Kelmarsh and NADARA corpora plus a small-model pilot, target IEEE CN 2026); *Agentic Document Conversion for LLM-Ready Industrial Knowledge* (target IJDAR); and *LLM Access Patterns for Industrial Time-Series Data* (target ACM TIST).
+- Initiated early-stage papers in the same programme: an **LLM-built virtual knowledge graph** over time-series data (Ontop + R2RML over TimescaleDB; prototype built, novelty scan done); **agent-per-subtask ontology extraction**, a verification-gated multi-agent pipeline for ontology construction (design stage, with collaborator review under way); **ontology and oracle poisoning** in agentic DataOps as a schema-level (TBox/SHACL) attack class (STRIDE model and attack tree done, target Computers & Security); and **differential privacy and zero-knowledge proofs** for LLM question answering over the wind-farm VKG (scoping, target PoPETs).
+- Founded and led [**Agentic AI Polyglot DataOps Security**](https://github.com/sage-khan/agenticai-polyglot-dataops-security) as **Principal Investigator**, directing student researchers in **STRIDE threat modeling** and attack-tree analysis of the Veritas architecture family (ontology-driven routing, agent orchestration, trust-scoring pipeline, polyglot-store adapters, blockchain anchoring), mapping surviving threats to concrete mitigations toward a security-analysis publication.
 - Designed and fielded an expert-elicitation survey (**Blockchain Suitability Index**, LimeSurvey) to validate blockchain-integration criteria for industrial SHM data governance with domain-expert input.
-- On **MSCA industry secondment** to Quantia Ingeniería y Consultoría, S.L. (1 Jun – 31 Dec 2026) per the IntelliWind Individual Research Plan, while retaining IPM Lab / UGR affiliation and PhD supervision throughout *(secondment detailed below)*.
+- Seconded to Quantia Ingeniería y Consultoría, S.L. (**MSCA industry secondment**, 1 Jun – 31 Dec 2026) under the IntelliWind Individual Research Plan, while retaining IPM Lab / UGR affiliation and PhD supervision *(secondment detailed below)*.
 
 ### Quantia Ingeniería y Consultoría, S.L. | 1 Jun 2026 – 31 Dec 2026
 
 **Researcher (MSCA Industry Secondment)** | Industry-Attached (IPM Lab/UGR affiliation continues)
-- Serving as **Researcher** on **Project Cogtwins (COGTWINS26)**, a Spanish R&D tax-incentive project (titleholder AI 4 INFRA 2026 A.I.E., developer Quantia Ingeniería y Consultoría), functioning in a de facto **system-architect** capacity across OT1 to OT3 (semantic core, polyglot persistence, trust-first governance) for **VERITAS-WF**, a TRL-3 to 6 neuro-symbolic Cognitive Digital Twin for wind-farm O&M over a polyglot store (Neo4j, Qdrant, OpenSearch, TimescaleDB, Postgres, MinIO); own the federated knowledge-graph/ontology layer, a **Trust Record + MCDM** scoring engine, FCA/Petri-net/SAT-SMT neuro-symbolic checks, an **Agent Control Center** (DID/VC agent identity, Cedar-style policy gating), and a hash-chained audit ledger anchored on **Hyperledger Fabric**, deployed at `veritas.ugr.es`.
+- Served as **Researcher** on **Project Cogtwins (COGTWINS26)**, a Spanish R&D tax-incentive project (titleholder AI 4 INFRA 2026 A.I.E., developer Quantia Ingeniería y Consultoría), functioning in a de facto **system-architect** capacity for **VERITAS-WF**, a TRL-3to6 ontology-governed, neuro-symbolic Cognitive Digital Twin for wind-farm O&M over a polyglot store (Neo4j, Qdrant, OpenSearch, TimescaleDB, Postgres, MinIO), deployed on-premises; owned research objectives OT1–OT3 (semantic core and federated KG, polyglot persistence and semantic federation, trust-first governance) plus all infrastructure, DevOps, and security, alongside a UGR colleague who owned the multi-agent layer (OT4) and Quantia's engineering team.
+- **Ontology engineering (OT1):** built a domain-agnostic OWL core ontology (Asset, Component, Observation, Event, MaintenanceActivity, Document spine aligned to **SOSA, PROV-O, and DCAT**) that the 45-class wind-energy module extends, with SKOS surface forms and cross-references to the external WEO, FMECA, and Blade Damage ontologies used as anchors for **KG fusion** (`owl:sameAs` proposals via lexical similarity plus LLM adjudication); a **SHACL gate** (pySHACL) validated every LLM-proposed entity before it entered Neo4j ("LLMs classify, Python decides, the graph records what passed"); hard violations quarantined the entity and warnings flagged it.
+- **Ingestion and data pipelines (OT2):** designed the single governed ingestion flow (upload to SHA-256 dedup and ClamAV quarantine to file-kind taxonomy plus LLM semantic typing to extraction to ontology grounding to polyglot fan-out) and co-developed its extraction lanes: a 13-step PDF pipeline (Docling conversion, layout, OCR, tables, vision-LLM image description, cross-page stitching, relationships, semantic chunking and embeddings) and tabular/DOCX/text lanes that converge on one tail, so every format landed in the same KG and vector space, cross-linked by UUID; numeric SCADA was routed to a TimescaleDB time-series lane.
+- **ETL orchestration:** built a **Dagster** asset pipeline (Bronze quality gate to Silver extraction to Gold catalogue, with an asset check, inbox sensor, and job) as a new code location in Quantia's production Dagster monorepo, validated clean, plus a live standalone stack fronted by an **LLM orchestration agent** that classified natural-language commands with Qwen2.5-32B, checked them against Cedar-style policies, executed them through Dagster's GraphQL API, and signed each action as a W3C Verifiable Credential; found and documented an invalid `dagster-postgres` version pin affecting all seven existing code locations.
+- **Virtual knowledge graph lane (ELT):** landed four NADARA operational tables into TimescaleDB (15.1M SCADA rows, 6.1M classification rows, 1.28M status events, 125K work orders, counts verified) with continuous aggregates, then exposed them as a SPARQL virtual KG through two **Ontop** endpoints over R2RML mappings; rewrote the mapping to be **46–299x faster** with equivalent answers by fixing join keys, timestamp casts, and IRI construction in the generated SQL.
+- On that lane, built LLM question answering with **text-to-SPARQL and text-to-SQL** comparison arms (local Qwen2.5-32B), an **LLM mapping agent** that proposes R2RML from CSV headers (F1 0.94–1.0 against the reference mapping), and an **answer provenance trace** that explains each answer row as supporting triples to R2RML map or ontology axiom to database table to source CSV; validated with 35 automated tests. Benchmarked PostgreSQL vs TimescaleDB on the same 15.1M rows (compression 3,172 MB to 851 MB, incremental rollups 0.067 s vs 2.3 s) to justify the store choice.
+- **Architecture decisions backed by measurement:** prototyped OBDA with Ontop over a live production table (zero replication lag vs ~ 4 minutes for the duplicating pipeline, root-caused an optimizer cast defect via Postgres statement logs), and ran a **50-tenant triple-store load test** (433,600 triples) showing Oxigraph-per-tenant used 7.8x less memory than 50 Fuseki instances with 37–44x higher concurrent query throughput; decisions documented in Jira and Confluence.
+- **Retrieval and trust (OT2, OT3):** implemented federated GraphRAG over Qdrant, OpenSearch (BM25), and Neo4j fused with Reciprocal Rank Fusion; defined a five-dimension **Trust Record** (source, consistency, provenance, coverage, integrity) weighted by AHP/MCDM into route, warn, or quarantine decisions; built a hash-chained audit ledger with a `/verify` endpoint; and deployed a **Hyperledger Fabric** network (orderer, two peer organisations, three CAs) with provenance- and decision-anchoring chaincodes.
+- **Infrastructure:** ran the on-prem deployment (database and application Docker Compose stacks, host Ollama inference for text, vision, and embedding models, OpenTelemetry/Tempo/Prometheus observability, GitHub Actions CI/CD) and tracked delivery in Jira epics and Confluence deliverables for Quantia.
 
-### Project Lead – DataOps Initiative | Mar 2025 – Present
+### Project Lead, DataOps Initiative | Mar 2025 – Present
 
 **Continuous Delivery Foundation · Freelance** | Remote, United States
 - Led the Continuous Delivery Foundation's [**DataOps Landscape Initiative**](https://cd.foundation/dataops), defining its vision, roadmap, and governance to strengthen the open-source DataOps ecosystem.
@@ -65,6 +82,7 @@
 - Authored and published **technical blog posts and thought leadership content** to promote awareness and adoption of DataOps principles.
 - Organized and facilitated **community workshops and [webinars](https://www.youtube.com/watch?v=SkJ33xHNQMQ)** to educate professionals on the DataOps landscape, frameworks, and industry impact.
 - Reviewed and edited technical content to ensure **clarity, consistency, and accuracy** across foundation publications and materials.
+- Joined the foundation's [**AI Special Interest Group**](https://github.com/cdfoundation/AI) (CI/CD AI SIG), which develops guidance on integrating AI into CI/CD: **MLOps and continuous training, agentic workflows and agent harnesses, secure AI deployment, inference serving, and platform engineering**, in collaboration with CNCF, LF AI & Data, and OpenSSF.
 
 ### [Syllaby AI](https://syllaby.io/) | Mar 2025 – Jul 2025
 
@@ -94,11 +112,9 @@
 ### [HIQ Solutions LLC](https://www.hiqsolutions.net) | 8 Jul 2024 – 25 Dec 2024
 
 **Machine Learning Consultant** | Remote (Part-Time)
-- Pre-Sales Consultation - Acted as a vital link between US Clients and the global development team
-- Participating in introductory and technical meetings
-- Engaging with clients to understand their requirements and conveying these to the development team
-- Ensuring clear and effective communication between all parties
-- Effective training and deployment of AI solutions as per client requirement
+- Served as **pre-sales technical lead**, acting as the link between US clients and the global development team.
+- Led introductory and technical client meetings and translated client business requirements into technical specifications for developers.
+- Ensured clear communication between all parties and scoped, trained, and deployed **AI solutions** to client requirements.
 
 ### Citizen Police Liaison Committee (CPLC) | Oct 2021 – Dec 2022
 
@@ -126,19 +142,37 @@
 
 **EC-Council (Course Instructor and Author)** | *[EC-Council Learning](https://www.eccouncil.org/)* | Mar 2026 – Present
 - Contracted as **Author and Instructor** for three EC-Council Learning video courses to date, and engaged separately as a **Subject-Matter-Expert contributing author** for the EC-Council Learning technical blog, on a royalty-based compensation model.
-- **AI Algorithmic Auditing in Action** (Mar – May 2026) – EC-Council Learning's first video course under this engagement: a ~5-hour, 9-section, 52-video curriculum on Machine Learning fundamentals, Algorithmic Auditing, AI Ethics, Legal frameworks, Bias and Fairness, and Explainability (XAI). *(full curriculum detail under Projects.)*
-- **NetOps Demystified** (Jun 2026 – Present) – a ~4-hour-10-minute, 8-section, 33-video curriculum on Software-Defined Networking, Infrastructure-as-Code (Ansible, Terraform), Network Reliability Engineering, and observability (Prometheus, Grafana). *(full curriculum detail under Projects.)*
-- **Hands-On Blockchain Forensics** (Jul 2026 – Present) – a ~4-hour-15-minute, 8-section, 36-video curriculum on blockchain forensics: Bitcoin/Ethereum ledger analysis, transaction-graph attribution, smart-contract exploit investigation, and mixer/cross-chain obfuscation tracing. *(full curriculum detail under Projects.)*
-- **Contributing Author – Technical Blogs** (Jul 2026 – Present) – wrote and submitted four long-form technical blog posts on applied AI/LLM security, mapped to the Certified Offensive AI Security Professional (C|OASP) curriculum. *(titles and abstracts under Publications.)*
+- **AI Algorithmic Auditing in Action** (Mar – May 2026): EC-Council Learning's first video course under this engagement, a ~ 5-hour, 9-section, 52-video curriculum on Machine Learning fundamentals, Algorithmic Auditing, AI Ethics, Legal frameworks, Bias and Fairness, and Explainability (XAI). *(full curriculum detail under Projects.)*
+- **NetOps Demystified** (Jun 2026 – Present): a ~ 4-hour-10-minute, 8-section, 33-video curriculum on Software-Defined Networking, Infrastructure-as-Code (Ansible, Terraform), Network Reliability Engineering, and observability (Prometheus, Grafana). *(full curriculum detail under Projects.)*
+- **Hands-On Blockchain Forensics** (Jul 2026 – Present): a ~ 4-hour-15-minute, 8-section, 36-video curriculum on blockchain forensics: Bitcoin/Ethereum ledger analysis, transaction-graph attribution, smart-contract exploit investigation, and mixer/cross-chain obfuscation tracing. *(full curriculum detail under Projects.)*
+- **Contributing Author, Technical Blogs** (Jul 2026 – Present): wrote and submitted four long-form technical blog posts on applied AI/LLM security, mapped to the Certified Offensive AI Security Professional (C| OASP) curriculum. *(titles and abstracts under Publications.)*
+
+**AI Trainer** | *micro1 · Freelance* | Sep 2026 – Present
+- Evaluated **Large Language Model (LLM)** and Generative AI outputs for accuracy, relevance, factuality, reasoning, instruction following, and overall response quality.
+- Performed AI model evaluation, data annotation, and quality assurance against established rubrics and guidelines.
+- Provided structured human feedback (**RLHF**) and expert annotations to support training, fine-tuning, and continuous improvement of AI/ML models.
+- Identified hallucinations, factual inconsistencies, reasoning errors, biases, and instruction-following issues in AI-generated content.
+- Analyzed complex AI-generated responses and delivered actionable feedback to improve model reliability, safety, and user experience.
+- Contributed domain expertise to AI training datasets, model benchmarking, prompt evaluation, and LLM quality assessment.
+- Supported development and evaluation of next-generation AI and machine learning systems through human-in-the-loop evaluation workflows.
+
+**AI Trainer** | *Handshake · Freelance* | Sep 2026 – Present
+- Authored graduate-level, engineering-specific **multimodal (image + text) reasoning tasks** designed to stump state-of-the-art AI models, across Computer Science, Electrical, Mechanical, and Civil Engineering.
+- Structured each task as a prompt with a **single verifiable final answer**, a step-by-step solution, a comprehensive text description of the image, and a justification of the model failure, with all mathematics written in **KaTeX**.
+- Built realistic engineering figures (circuit schematics, beam and free-body diagrams, flow networks, road networks, experimental data plots) without artificial annotations that guide interpretation, so that model failures reflected genuine image-based reasoning errors rather than OCR or counting errors.
+- Ran candidate prompts against frontier models, analysed their responses and failure modes, and refined tasks until the failure was attributable to visual reasoning and domain knowledge.
+- Sourced images that were self-authored or openly licensed for commercial reuse (CC BY, CC BY-SA, CC0) and kept tasks unique and diverse (distinct figure, final-answer request, and context), following strict data quality, accuracy, and licensing criteria.
+- Contributed expert human-generated data to improve AI model reasoning, multimodal understanding, reliability, and performance.
 
 **Senior AI Consultant** | *Nova Tech ([Built Pulse](https://builtpulse.com/))* | Nov 2025 – Feb 2026
-- Authored a **168+ page technical deliverable set** (Agent Architecture Blueprint, Agent Development Playbook, Agent Development Manual, plus a 12-week AI Agent Curriculum, Framework Comparison Guide, and Deployment Checklist) architecting a **5-bot AI automation suite** (Email, Meeting, Project Tracker, Knowledge, Resource Allocator) for the client's Karachi engineering team.
-- Architected and built the **Knowledge Bot**: a **FastAPI + LangChain** document-ingestion pipeline (PDF, DOCX, XLSX, CSV, JSON, TXT) with OpenAI embeddings and **Qdrant vector-similarity search** for semantic retrieval across organizational documents and meeting transcripts.
-- Delivered, beyond contracted scope, a full **codebase restructuring**, fixed **5 critical security vulnerabilities** (hardcoded secrets, in-memory token storage), added **Redis-backed** password reset and auth rate-limiting, and built a **100+ test suite (75% backend API coverage)** with **GitHub Actions CI/CD**.
+- Authored a **168+ page technical deliverable set** (Agent Architecture Blueprint, Agent Development Playbook for n8n + AWS, Agent Development Manual, plus a 12-week AI Agent Curriculum, Framework Comparison Guide, and Deployment Checklist) architecting a **5-bot AI automation suite** (Email, Meeting, Project Tracker, Knowledge, Resource Allocator) for the client's Karachi engineering team.
+- Guided the suite's evolution from standalone **n8n workflow bots** into a **unified full-stack application**, built with the client's engineering team: a **React 19 + TypeScript** (Vite, Tailwind, shadcn/ui) dashboard with per-bot pages, and a **Flask 3.1 + SQLAlchemy + PostgreSQL** API with **JWT auth, RBAC and Google OAuth**, document, employee and chat-history services; n8n was retained as the workflow engine behind the Email, Meeting and Project Tracker bots, and Resource Allocator was merged into Project Tracker.
+- Architected the **Knowledge Bot**: a **FastAPI + LangChain** RAG service with a file-watcher ingestion pipeline (PDF, DOCX, XLSX, CSV, JSON, TXT), OpenAI embeddings and **Qdrant vector-similarity search** for semantic retrieval across organizational documents and meeting transcripts.
+- Delivered, beyond contracted scope, a full **codebase restructuring** into a single `src/` layout, fixed **5 critical security vulnerabilities** (hardcoded secrets, in-memory token storage), moved the Google API key behind a backend proxy, hardened CORS, added **Redis-backed** password reset and auth rate-limiting, and built a **100+ test suite (75% backend API coverage)** with **GitHub Actions CI/CD**.
 - Authored **Docker Compose and Kubernetes** deployment manifests and a microservices migration guide (**PostgreSQL, Redis, Qdrant, n8n**) for production rollout of the bot suite.
 - Developed and enforced enterprise-grade **password management policies** aligned with **ISO 27001** standards, implementing [Passbolt](https://passbolt.builtpulse.com) for secure credential orchestration and access control.
-- Automated organizational **employee attendance tracking** by deploying and integrating **Kimai and TimeTrex**, streamlining HR operations and resource reporting via custom API integrations. Final deployment was on [horillaHRMS](https://attendance.builtpulse.com). Led the deployment of customized [CRM](https://bizzpulse.co/)
-- Drafting end-to-end **AI/ML product development SOPs** and security protocols for IP protection, while facilitating hands-on agent-building workshops for the core engineering team.
+- Automated organizational **employee attendance tracking** by deploying and integrating **Kimai and TimeTrex**, streamlining HR operations and resource reporting via custom API integrations. Final deployment was on [horillaHRMS](https://attendance.builtpulse.com). Led the deployment of customized [CRM](https://bizzpulse.co/).
+- Set up the team's **GitOps and Docker-first** development foundations and ran hands-on training sessions (Nov 2025 – Jan 2026) on n8n workflows, multi-database architecture (PostgreSQL, Qdrant), RAG pipeline design and secrets management; drafted **AI/ML product development SOPs** and security protocols for IP protection.
 
 **Deployment of Open Source SOC Using Wazuh** | *Virtuous BPO* | Aug 2024 – In Progress
 - Implemented an open-source **Security Operations Center (SOC)** using **Wazuh**.
@@ -185,7 +219,7 @@
 - Conducted **topic ideation, keyword analysis, proofreading, and editing** for clarity and engagement.
 - Developed **technical documentation and tutorials** to explain complex AI concepts to general audiences.
 
-[**Content Writing – US Concept Pages**](https://www.upwork.com/freelancers/~01aac14f21aa443593?promobnr=1) | *Upwork* | 2010
+[**Content Writing: US Concept Pages**](https://www.upwork.com/freelancers/~01aac14f21aa443593?promobnr=1) | *Upwork* | 2010
 - Authored SEO-optimized content for U.S.-based concept pages and marketing sites.
 - Performed **keyword research** and implemented **search engine optimization (SEO)** strategies to increase visibility.
 - Delivered high-quality written material aligned with client objectives and brand tone.
@@ -200,7 +234,7 @@
 ### [The Profs UK Spires](https://spires.co/tutors/fa138578-19ed-4445-aed7-2609f4afc07e) | Jan 2026 – Present
 
 **Private Coach (Part-Time)** | Remote, United Kingdom
-- One-on-one teaching in AI, Cyber Security, programming, Mathematics, Statistics, from A Levels to Grad students.
+- Taught one-on-one sessions in **AI, Cyber Security, programming, Mathematics, and Statistics**, from A Level to graduate students.
 
 ### [Bahria University Karachi](https://bahria.edu.pk/) | Sep 2024 – Oct 2024
 
@@ -234,9 +268,8 @@
 
 **[IPM Lab, Universidad de Granada](http://www.ugr.es/en/study/doctoral-programmes)** | Granada, Spain
 
-***Marie Skłodowska-Curie Actions Personal Docente e Investigador (PhD Scholar)***
+***Research Work***
 
-***~ Research Work***
 - Artificial Intelligence
 - Sustainable Development
 - Renewable Energy
@@ -251,9 +284,8 @@
 
 **National University of Science & Technology - Pak Navy Engineering College** | Karachi, Pakistan
 
-***CGPA 4.0 / 4.0 WITH GOLD MEDAL***
+***Relevant Coursework***
 
-***~ Relevant Coursework***
 - Info Sec Management
 - SDLC
 - Digital Forensics
@@ -267,9 +299,8 @@
 
 **National University of Science & Technology - Pak Navy Engineering College** | Karachi, Pakistan
 
-***CGPA 3.72 / 4.0***
+***Relevant Coursework***
 
-***~ Relevant Coursework***
 - Programming
 - Web Development
 - Networking
@@ -286,9 +317,8 @@
 
 **Bahria College Karachi NORE-I** | Karachi, Pakistan
 
-***1A* 3A 1B 1C***
+***Subjects & Results***
 
-***~ Subjects & Results***
 - Accounting (A* Grade)
 - Mathematics (A Grade)
 - Physics (A Grade)
@@ -300,9 +330,8 @@
 
 **Bahria College Karachi NORE-I** | Karachi, Pakistan
 
-***10As***
+***Subjects & Results***
 
-***~ Subjects & Results***
 - English (A Grade)
 - Urdu (A Grade)
 - Mathematics (A Grade)
@@ -337,9 +366,9 @@
 - Completed intensive training on the wind energy sector, focusing on data science, AI, and research applications for autonomous wind farms.
 - Core Technical Topics: Wind Energy Fundamentals, Data Science essentials, Machine Learning and Deep Learning for wind, and hands-on analysis of SCADA data.
 - Studied advanced concepts including AI & ML impact on operations, Prompt Engineering with LLMs, and the autonomous systems concept.
-- Transferrable Skills: Attended workshops on writing scientific papers, Open Science tools, researcher communication, and PhD project management.
+- Transferable Skills: Attended workshops on writing scientific papers, Open Science tools, researcher communication, and PhD project management.
 - Confirmed attendance and full participation for the event held at DTU Wind and Energy Systems, Roskilde, Denmark.
-- ECTS Credits: Training covered 8 full days between September 15th and September 24th, 2025).
+- ECTS Credits: Training covered 8 full days between September 15th and September 24th, 2025.
 
 **Computer Vision Workshop** | *PDC NUST-PNEC* | Mar 2023
 - Completed training on **Python-based Computer Vision** using Convolutional Neural Networks (CNNs).
@@ -466,64 +495,63 @@
 
 ## Projects
 
-**Hands-On Blockchain Forensics** | *[EC-Council Learning](https://www.eccouncil.org/)* – Author & Instructor | Jul 2026 – Present
+**Hands-On Blockchain Forensics** | *[EC-Council Learning](https://www.eccouncil.org/)*, Author & Instructor | Jul 2026 – Present
 - Contracted as **Author and Instructor** for a third EC-Council Learning video course, *"Hands-On Blockchain Forensics: Investigating Cryptocurrency Transactions, Smart Contract Exploits, and Decentralized Ledger Evidence Using Open-Source Analysis Frameworks"* (Inhouse Publishing Agreement executed Jul 9, 2026), covering **blockchain forensics**: tracing cryptocurrency transactions, attributing wallets, and investigating smart-contract exploits using open-source tooling.
-- Authored a ~4-hour-15-minute, 8-section, 36-video (1 overview + 35 numbered) curriculum spanning **Bitcoin UTXO-model ledger analysis and address-clustering heuristics, Ethereum/EVM event-log and ERC-20 transfer tracing, transaction-graph construction and entity-attribution confidence (NetworkX)**, **smart-contract exploit investigation** (OWASP Smart Contract Top 10 triage, Slither static analysis, a reentrancy/DAO-2016 case-study timeline, proxy-pattern upgrade risk), and **mixer/cross-chain obfuscation tracing** (Tornado Cash OFAC designation and Fifth Circuit precedent, bridge-exploit laundering paths), aligned to **ISO/IEC 27037:2012** and **NIST SP 800-86** digital-evidence standards for DFIR, AML/compliance, and law-enforcement use cases.
-- Designed hands-on labs and reproducible Jupyter investigation notebooks over **bundled real historical on-chain datasets** (public chain data, Blockchair/Etherscan APIs, Python: web3.py, bitcoinlib, NetworkX, Slither) framed around publicly documented incidents (Ronin Bridge 2022, Poly Network 2021, Euler Finance 2023) – an entirely **open-source-first toolchain** requiring no commercial blockchain-intelligence platform (Chainalysis, TRM Labs, Elliptic) licence to complete.
+- Authored a ~ 4-hour-15-minute, 8-section, 36-video (1 overview + 35 numbered) curriculum spanning **Bitcoin UTXO-model ledger analysis and address-clustering heuristics, Ethereum/EVM event-log and ERC-20 transfer tracing, transaction-graph construction and entity-attribution confidence (NetworkX)**, **smart-contract exploit investigation** (OWASP Smart Contract Top 10 triage, Slither static analysis, a reentrancy/DAO-2016 case-study timeline, proxy-pattern upgrade risk), and **mixer/cross-chain obfuscation tracing** (Tornado Cash OFAC designation and Fifth Circuit precedent, bridge-exploit laundering paths), aligned to **ISO/IEC 27037:2012** and **NIST SP 800-86** digital-evidence standards for DFIR, AML/compliance, and law-enforcement use cases.
+- Designed hands-on labs and reproducible Jupyter investigation notebooks over **bundled real historical on-chain datasets** (public chain data, Blockchair/Etherscan APIs, Python: web3.py, bitcoinlib, NetworkX, Slither) framed around publicly documented incidents (Ronin Bridge 2022, Poly Network 2021, Euler Finance 2023), using an entirely **open-source-first toolchain** that required no commercial blockchain-intelligence platform (Chainalysis, TRM Labs, Elliptic) licence to complete.
 - Produced full course deliverables: **course handbook (eBook), section quizzes, 25-question final assessment, LMS metadata, and instructional slide decks**, on a royalty-based compensation model.
 
 **[Agentic AI Polyglot DataOps Security](https://github.com/sage-khan/agenticai-polyglot-dataops-security)** | *Python, Pydantic, STRIDE* | Jul 2026 – Present
-- Early-stage security-research companion to **Project Veritas**: applying **STRIDE threat modeling** and attack-tree analysis to an agentic-AI, polyglot-persistence DataOps architecture.
-- Structuring a PI-and-student-researcher collaboration toward a published threat-model catalogue and defensive-mitigation library for agentic data platforms.
+- Initiated an early-stage security-research companion to **Project Veritas**, applying **STRIDE threat modeling** and attack-tree analysis to an agentic-AI, polyglot-persistence DataOps architecture.
+- Structured a PI-and-student-researcher collaboration toward a published threat-model catalogue and defensive-mitigation library for agentic data platforms.
 
-**NetOps Demystified** | *[EC-Council Learning](https://www.eccouncil.org/)* – Author & Instructor | Jun 2026 – Present
+**NetOps Demystified** | *[EC-Council Learning](https://www.eccouncil.org/)*, Author & Instructor | Jun 2026 – Present
 - Contracted as **Author and Instructor** for a second EC-Council Learning video course (Publishing & Distribution Agreement signed Jun 5, 2026), on **software-driven, automated network operations** *("NetOps Demystified: From Legacy Network Administration to Software-Driven, Automated, and Reliable Network Operations")*.
-- Authoring an ~4-hour-10-minute, 8-section, 33-video curriculum covering **Software-Defined Networking foundations, Infrastructure-as-Code for networks (Ansible, Terraform), Network Reliability Engineering, and observability/telemetry (Prometheus, Grafana)**, bridging NetOps into NetSecOps.
+- Authored a ~ 4-hour-10-minute, 8-section, 33-video curriculum covering **Software-Defined Networking foundations, Infrastructure-as-Code for networks (Ansible, Terraform), Network Reliability Engineering, and observability/telemetry (Prometheus, Grafana)**, bridging NetOps into NetSecOps.
 - Built hands-on labs with **Containerlab, Terraform, and NETCONF/`ncclient`**, plus a Prometheus/Grafana observability notebook, for reproducible network-automation practice.
 - Produced full course deliverables: **course handbook (eBook), section quizzes, 25-question final assessment, LMS metadata, and instructional "how-to" videos**, on a royalty-based compensation model.
 
+**[Symphysis](https://pypi.org/project/symphysis/)** | *Founder: Python, FastAPI, React, Typer, Ollama, PyMC, SearXNG* | Aug 2026 – Present
+- Founded and built a **config-driven, replicable agent-panel engine** for expert-elicitation surveys, the general-purpose successor to the Blockchain Suitability Index survey tooling built for **Project Veritas**'s TrustRouter/BSI research; published on **PyPI** as `symphysis` (Apache 2.0) with a **Typer CLI** (`new`, `add-agent`, `fix-survey`, `report`).
+- Designed every agent as a portable, self-certifying **Agent Card** (`did:key` identity, role, model, RAG corpus, permissions, guardrails), so a survey configuration and its identical agent panel can be respawned anywhere from one JSON file per agent.
+- Implemented the **Best-Worst Method** (classical linear-program and Bayesian/PyMC solvers, verified against the original authors' reference implementations) and the **Analytic Hierarchy Process**, plus a hierarchical-BWM instrument for multi-level composite decision frameworks, behind one pluggable instrument interface.
+- Built guardrails an agent panel actually needs to be trustworthy evidence, not just automation: **schema-validated and denylist-scanned responses**, multiple independent samples per agent, a **QA self-verification pre-check and post-check** per agent, and a **tamper-evidence hash manifest** over every run's full audit trail.
+- Shipped a **FastAPI + React** web UI (survey builder, live run monitor, Analytics tab, per-agent Trace/Conversation viewer) and grounded agents in up to four context sources per query: per-agent RAG corpus, a shared per-survey knowledge base, curated role knowledge packs, and self-hosted web search (**SearXNG + Crawl4AI**, no external API key required).
+- Ran a live 17-agent panel against a real deployed survey instrument end to end, catching and fixing a real permission-scope bug that had been silently skipping every RAG-enabled agent.
+
 **[Text2OfficeProcessor](https://pypi.org/project/text2officeprocessor/)** | *Python, FastAPI, Typer, python-docx/pptx/openpyxl, Pandoc, PyPI* | Apr 2026 – Present
-- Published and maintain an [open-source PyPI package](https://github.com/sage-khan/text2officeprocessor) (MIT, v0.5.1) converting Markdown/Text/HTML into template-driven **PPTX, DOCX, and XLSX** documents via **deterministic, non-hallucinating rendering**.
+- Published and maintained an [open-source PyPI package](https://github.com/sage-khan/text2officeprocessor) (MIT, v0.5.1) that converted Markdown/Text/HTML into template-driven **PPTX, DOCX, and XLSX** documents via **deterministic, non-hallucinating rendering**.
 - Designed the tool so an **LLM only normalizes and tags content**, never authors the final document, keeping every template's branding, layout, and images fully preserved and every replacement auditable; added optional multi-provider LLM normalization (OpenAI, Anthropic, Groq).
 - Built a **Typer CLI** (`convert`, `batch`, `analyze`, `watch`, `serve`) and an optional **FastAPI** REST server, a Pandoc-backed DOCX extraction pipeline (style/content extractors), an LLM-assisted spreadsheet reorganizer, automated template structure analysis, and PPTX text-overflow handling.
 - Originated the project from an internal EC-Council document-generation **rulefile**, iterated into a versioned Python package with **232 automated tests** (pytest, CI on GitHub Actions with a PyPI trusted-publisher release workflow) and bundled generic templates.
 
-**[Symphysis](https://pypi.org/project/symphysis/)** | *Founder: Python, FastAPI, React, Typer, Ollama, PyMC, SearXNG* | Aug 2026 – Present
-- Founded and built a config-driven, replicable agent-panel engine for expert-elicitation surveys, the general-purpose successor to the Blockchain Suitability Index survey tooling built for **Project Veritas**'s TrustRouter/BSI research; published on PyPI as `symphysis` (Apache 2.0) with a **Typer CLI** (`new`, `add-agent`, `fix-survey`, `report`).
-- Designed every agent as a portable, self-certifying **Agent Card** (`did:key` identity, role, model, RAG corpus, permissions, guardrails), so a survey configuration and its identical agent panel can be respawned anywhere from one JSON file per agent.
-- Implemented the Best-Worst Method (classical linear-program and Bayesian/PyMC solvers, verified against the original authors' reference implementations) and the Analytic Hierarchy Process, plus a hierarchical-BWM instrument for multi-level composite decision frameworks, behind one pluggable instrument interface.
-- Built guardrails an agent panel actually needs to be trustworthy evidence, not just automation: schema-validated and denylist-scanned responses, multiple independent samples per agent rather than one completion treated as ground truth, a QA self-verification pre-check and post-check per agent, and a tamper-evidence hash manifest over every run's full audit trail.
-- Shipped a **FastAPI + React** web UI (survey builder, live run monitor, Analytics tab, per-agent Trace/Conversation viewer) and grounded agents in up to four context sources per query: per-agent RAG corpus, a shared per-survey knowledge base, curated role knowledge packs, and self-hosted web search (SearXNG + Crawl4AI, no external API key required).
-- Ran a live 17-agent panel against a real deployed survey instrument end to end, catching and fixing a real permission-scope bug that had been silently skipping every RAG-enabled agent.
-- Open-source release (Apache 2.0, matching Project Veritas's own licensing) planned alongside the TrustRouter/BSI paper's publication.
-
-**AI Algorithmic Auditing in Action** | *[EC-Council Learning](https://www.eccouncil.org/)* – Author & Instructor | Mar 2026 – May 2026
-- Contracted as **Author and Instructor** to design and develop a professional training course in **AI Algorithmic Auditing** within the domain of information security – EC-Council Learning's first video course under this engagement.
-- Authored and recorded a **~5-hour, 9-section, 52-video** curriculum covering **Machine Learning fundamentals, Algorithmic Auditing, AI Ethics, Legal frameworks, Bias and Fairness, and Explainability (XAI)**.
+**AI Algorithmic Auditing in Action** | *[EC-Council Learning](https://www.eccouncil.org/)*, Author & Instructor | Mar 2026 – May 2026
+- Contracted as **Author and Instructor** to design and develop a professional training course in **AI Algorithmic Auditing** within the domain of information security, EC-Council Learning's first video course under this engagement.
+- Authored and recorded a **~ 5-hour, 9-section, 52-video** curriculum covering **Machine Learning fundamentals, Algorithmic Auditing, AI Ethics, Legal frameworks, Bias and Fairness, and Explainability (XAI)**.
 - Delivered full supporting materials: **course handbook (eBook), section-wise quizzes, final assessment (25 questions), metadata documentation, and instructional “how-to” videos**.
 - Designed content aligned with **industry compliance, security standards, and real-world AI governance practices**.
 - Engaged in iterative review cycles with EC-Council, incorporating **editorial and technical feedback** to meet publication standards.
 - Contributed to a commercially distributed product with **royalty-based compensation model (20% of net receipts)**.
 
-**[Veritas AI DB](https://www.linkedin.com/company/veritas-aidb)** | *Founder & Lead Architect — Python, Neo4j, Qdrant, OpenSearch, Hyperledger Fabric* | 11 Feb 2026 – Present
+**[Veritas AI DB](https://www.linkedin.com/company/veritas-aidb)** | *Founder & Lead Architect: Python, Neo4j, Qdrant, OpenSearch, Hyperledger Fabric* | 11 Feb 2026 – Present
 - Architected ontology-driven polyglot data platform integrating 7 heterogeneous databases, relational, graph, vector, search, time-series, object storage, blockchain.
 - Designed trust-scored routing layer with uncertainty-aware confidence bounds for data governance.
 - Implemented GraphRAG architecture for industrial SCADA and document intelligence workloads.
 - Built 13-step recursive industrial document processing pipeline, multi-engine OCR, layout analysis, semantic chunking, embedding generation.
 - Developed agentic data quality framework with distributed tracing via OpenTelemetry for non-deterministic workflows.
 - Implemented global UUID-based provenance system spanning polyglot stores.
-- Open-sourced the specification, ontology, and adapter layers under the [Veritas AI DB GitHub organization](https://github.com/veritas-aidb) (`veritas-spec`, `veritas-ontology`, `veritas-adapters`), while the core orchestration engine and PhD-thesis-backed research implementation continue as active, closed development.
+- Open-sourced the specification, ontology, and adapter layers under the [Veritas AI DB GitHub organization](https://github.com/veritas-aidb) (`veritas-spec`, `veritas-ontology`, `veritas-adapters`), while the core orchestration engine and PhD-thesis-backed research implementation remained in active, closed development.
 
 **[CodeGuardian](https://github.com/rahimali83/CodeGuardian)** | *Python, Docker, Ollama, Gemini CLI* | 2024 – Present
 - Integrated **Ollama** to enable **offline code review** workflows using open-source LLMs for enhanced privacy and local security.
 - Implemented **multi-model support**, including Google **Gemini CLI** and OpenAI **Codex**, for comparative evaluation of code-analysis capabilities.
 - Designed a modular pipeline enabling scalable AI-based static review and developer-assist features.
 
-**[Ascon Encryption – C Implementation](https://github.com/rahimali83/Ascon_Encryption_C_lang_Implementation)** | *C, Cryptography* | 2024
+**[Ascon Encryption: C Implementation](https://github.com/rahimali83/Ascon_Encryption_C_lang_Implementation)** | *C, Cryptography* | 2024
 - Conducted **research and documentation** of **Ascon**, a NIST SP 800-232 Standardized lightweight authenticated encryption algorithm.
 - Analyzed performance and correctness aspects of core primitives on **resource-constrained** systems.
 
-**[Ascon Encryption – Rust Implementation](https://github.com/rahimali83/Ascon_Encryptioin_Rust_Implementation)** | *Rust, Cryptography* | 2024
+**[Ascon Encryption: Rust Implementation](https://github.com/rahimali83/Ascon_Encryptioin_Rust_Implementation)** | *Rust, Cryptography* | 2024
 - Performed **cryptographic research** and documentation for a Rust-based implementation prioritizing **memory-safety** and **performance**.
 - Supported alignment with modern **lightweight AEAD standards** for embedded and IoT applications.
 
@@ -553,7 +581,7 @@
 ## Public Speaking
 
 **[Open-Source AI & Agentic Marketing](https://open.spotify.com/episode/4nV5vZcevivcBffxeZefTi)** | *Marketing e IA Podcast (with Emilio)* | 25 Jun 2026
-- Guest appearance on the bilingual (Spanish/English) **Marketing e IA** podcast, covering running enterprise-grade AI on open-source stacks (Ollama, ERPNext, Wazuh, n8n) and identifying "agent washing" in marketing-AI tooling, followed by two expanded Medium articles: ["Enterprise AI Without the Enterprise Bill"](https://thesagekhan.medium.com/enterprise-ai-without-the-enterprise-bill-the-expensive-part-of-ai-was-never-the-ai-13aa6f127f5f) and *"Agentic AI or Agent Washing: Why Most "AI Agents" in Marketing Are Just Expensive Chatbots"* (written, pending publication).
+- Appeared as a guest on the bilingual (Spanish/English) **Marketing e IA** podcast and discussed running enterprise-grade AI on open-source stacks (Ollama, ERPNext, Wazuh, n8n) and identifying "agent washing" in marketing-AI tooling; expanded the episode into two Medium articles: ["Enterprise AI Without the Enterprise Bill"](https://thesagekhan.medium.com/enterprise-ai-without-the-enterprise-bill-the-expensive-part-of-ai-was-never-the-ai-13aa6f127f5f) and *"Agentic AI or Agent Washing: Why Most "AI Agents" in Marketing Are Just Expensive Chatbots"* (written, pending publication).
 
 **[State of Artificial Intelligence and Cyber Security in Pakistan](https://youtu.be/Uy4iJl4C6Jc)** | *NTN News* | 13 Apr 2026
 - Interviewed on **NTN News** on the state of AI and cybersecurity in Pakistan, followed by an expanded [written reflection on medium.com](https://thesagekhan.medium.com/on-ai-cybersecurity-and-pakistans-digital-future-reflections-from-my-ntn-news-interview-8814f3674ae3) covering digital-infrastructure and talent-retention challenges.
@@ -609,6 +637,7 @@
 - Chaired more than **15 MUN committees** across Pakistan.
 
 ## Hobbies
+
 - Music Composition
 - Piano
 - Guitar
@@ -647,7 +676,7 @@
 
 **[Tamgha-e-Azm](https://en.wikipedia.org/wiki/Awards_and_decorations_of_the_Pakistan_Armed_Forces)** | *Pakistan Navy* | 23 Mar 2018
 - Conferred the **Tamgha-e-Azm Military Service Medal**, recognizing **exceptional bravery, commitment, and service** in operations against militancy and terrorism.
-- The medal, established by the **Ministry of Defence (2018)**, honors members of the Armed Forces, Civil Armed Forces, and Law Enforcement Agencies serving on active strength between **Dec 11, 2001 and Mar 23, 2018**.
+- The medal, established by the **Ministry of Defence (2018)**, honored members of the Armed Forces, Civil Armed Forces, and Law Enforcement Agencies serving on active strength between **Dec 11, 2001 and Mar 23, 2018**.
 
 ## Publications
 
@@ -708,50 +737,50 @@
 ### Urdu ASR for Mal-intended Speech | Oct 2022
 
 **Thesis NUST-PNEC** | [Research Gate](https://www.researchgate.net/publication/365349074_Automatic_Speech_Recognition_to_Detect_MaliciousMal-intended_Speech)
-- Thesis work for Master's Degree
-- Developed latex proficiency
-- Practical implementation done in CPLC call center
+- Completed the thesis for the Master's degree
+- Developed LaTeX proficiency
+- Carried out the practical implementation in the CPLC call center
 - Achieved 95% Speech to Text Transcription accuracy on Noisy Telephonic Urdu custom CPLC data using Hybrid HMM-CNN-TDNN Model with Lattice Free MMI Objective Function
 
 ### EC-Council Learning Blog | Jul 2026
 
 **Blogs** | Subject-Matter-Expert Contributing Author
-- **"How to Write an AI CTF Walkthrough: Methodology Without Spoiling the Flag"** — A practitioner methodology for writing AI capture-the-flag (CTF) writeups: repeatable analysis structure, walkthrough best practices, and spoiler-safe documentation technique. *(link to follow on publication)*
-- **"System Prompt Extraction in CTFs: Techniques, Tools, and Real Examples"** — Surveys system prompt extraction techniques, tooling, and real-world incidents (including the 2023 Bing/Sydney disclosure), mapped to prompt-injection and jailbreaking risk categories. *(link to follow on publication)*
-- **"RAG Security Explained Through CTF Challenges: Vector Poisoning, Embedding Inversion, and More"** — Explains Retrieval-Augmented Generation (RAG) security risk — vector poisoning and embedding inversion attacks — through CTF-style challenges grounded in the OWASP LLM Top 10 vector/embedding weakness category. *(link to follow on publication)*
-- **"Best AI CTF Platforms to Practice LLM Security in 2026 (Gandalf, HTB, Crucible and More)"** — A comparative guide to AI capture-the-flag platforms (Gandalf, Hack The Box, Crucible, and others) for hands-on LLM security and AI red-teaming practice. *(link to follow on publication)*
+- **"How to Write an AI CTF Walkthrough: Methodology Without Spoiling the Flag"**: A practitioner methodology for writing AI capture-the-flag (CTF) writeups: repeatable analysis structure, walkthrough best practices, and spoiler-safe documentation technique. *(link to follow on publication)*
+- **"System Prompt Extraction in CTFs: Techniques, Tools, and Real Examples"**: Surveys system prompt extraction techniques, tooling, and real-world incidents (including the 2023 Bing/Sydney disclosure), mapped to prompt-injection and jailbreaking risk categories. *(link to follow on publication)*
+- **"RAG Security Explained Through CTF Challenges: Vector Poisoning, Embedding Inversion, and More"**: Explains Retrieval-Augmented Generation (RAG) security risk (vector poisoning and embedding inversion attacks) through CTF-style challenges grounded in the OWASP LLM Top 10 vector/embedding weakness category. *(link to follow on publication)*
+- **"Best AI CTF Platforms to Practice LLM Security in 2026 (Gandalf, HTB, Crucible and More)"**: A comparative guide to AI capture-the-flag platforms (Gandalf, Hack The Box, Crucible, and others) for hands-on LLM security and AI red-teaming practice. *(link to follow on publication)*
 
 ### Independent Articles | Blogs
 
 **[Medium](https://medium.com/@thesagekhan)** | 2024-Present
-- [**Understanding Recursive Nature of Fractals**](https://thesagekhan.medium.com/understanding-the-recursive-nature-of-fractals-15c7d0d0d7ca) — Explored the mathematical foundations of self-similarity and recursive algorithms, highlighting their applications in procedural generation and computer graphics.
-- [**Fractals in Nature**](https://thesagekhan.medium.com/where-do-we-see-fractals-in-nature-39ac15b95590) — Analyzed biological and geological patterns through the lens of fractal geometry, demonstrating how simple recursive rules manifest in complex natural systems like river networks and lung structures.
-- [**Charter of Economy and Technology**](https://thesagekhan.medium.com/beyond-political-cycles-why-pakistan-needs-charters-of-economy-and-it-75d178920d63) — Proposed a non-partisan framework for Pakistan's IT sector, emphasizing the need for long-term policy consistency to decouple technological growth from political volatility.
-- [**Modernizing Legacy Apps with Docker & Kubernetes**](https://thesagekhan.medium.com/the-world-is-beyond-monolith-modernizing-legacy-apps-with-docker-kubernetes-0f26289a297c) — Outlined architectural strategies for transitioning monolithic systems to cloud-native microservices, focusing on container orchestration and high-availability deployment.
-- [**From the First Hard Fall to the Echo of Legend**](https://thesagekhan.medium.com/from-the-first-hard-fall-to-the-echo-of-legend-calling-new-heroes-to-rise-f0aabf006983) — A philosophical exploration of leadership and resilience, drawing parallels between historical excellence and the requirements for modern technical and ethical leadership.
-- [**AI in Project Management Practices**](https://thesagekhan.medium.com/the-role-of-ai-in-project-management-practices-100cd603b080) — Discussed the integration of generative AI into Agile workflows, specifically focusing on automated sprint planning, resource allocation, and predictive risk assessment.
-- [**AI Vibe: Coding and Policy Enforcement**](https://thesagekhan.medium.com/ai-vibe-coding-and-policy-enforcement-9a241ef97926) — Examined the 'Vibe Coding' phenomenon, balancing the speed of natural language development with the necessity of automated security guardrails and architectural linting.
-- [**Open Source and AI Synergy**](https://thesagekhan.medium.com/open-minds-open-code-the-synergy-of-open-source-and-artificial-intelligence-e132a3023341) — Argued for the necessity of open-source ecosystems in AI development to ensure transparency, ethical standards, and the democratization of high-performance models.
-- [**The DevOps of AI Ecosystem**](https://thesagekhan.medium.com/the-devops-of-ai-ecosystem-8ae2d90301e6) — Defined the MLOps lifecycle, covering the bridge between model training and production-grade deployment through automated evaluation and continuous monitoring.
-- [**Standard Documentation for Pakistani Citizens**](https://thesagekhan.medium.com/standard-documentation-check-off-list-for-pakistani-citizens-aspiring-to-move-abroad-for-higher-148a0af1dfb1) — Compiled a comprehensive logistical guide for students and professionals, detailing the bureaucratic and technical requirements for international academic and professional mobility.
-- [**Braindrain & Bureaucracy**](https://thesagekhan.medium.com/braindrain-bureaucracy-how-the-pakistani-system-forces-its-talent-out-of-the-country-and-how-58bbfa5c77e9) — Investigated the systemic causes of talent migration in Pakistan and advocated for digital-first policies and remote-work hubs to retain local intellectual capital.
-- [**Model Context Protocol: Hype, Anti-Pattern, or Standard?**](https://thesagekhan.medium.com/model-context-protocol-hype-or-anti-pattern-or-a-standard-0190049a6071) — Analyzed the emerging open standard for LLM-data integration and its role in decoupling agentic workflows from proprietary interfaces.
-- [**Beyond ChatGPT with a UI: Why AI Wrappers Matter**](https://thesagekhan.medium.com/beyond-chatgpt-with-a-ui-why-ai-wrapper-companies-still-matter-if-they-play-it-smart-0207ec253a97) — Investigated strategies for building defensible AI-native startups by leveraging vertical domain depth, proprietary data moats, and workflow integration.
-- [**Potential of Pakistan in the Renewable Sector**](https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5) — Explored Pakistan's 2.9M MW solar potential and proposed policy reforms like smart-grid integration and localized manufacturing for energy independence.
-- [**Rulefiles in AI-Powered Development**](https://thesagekhan.medium.com/how-rulefiles-are-transforming-ai-powered-development-why-writing-once-beats-prompting-forever-23f4b5f720bb) — Outlined a paradigm shift in AI-assisted coding using version-controlled instruction sets to enforce architectural standards and security policies.
-- [**Ascon: The Tiny Titan of IoT Security**](https://thesagekhan.medium.com/ascon-the-tiny-titan-of-iot-security-a-deep-technical-dive-8273ab4786b6) — Conducted a deep technical dive into the NIST-standardized lightweight cryptographic algorithm, focusing on efficiency in resource-constrained IoT devices.
-- [**Open Source in the Corporate World**](https://thesagekhan.medium.com/open-for-business-harnessing-the-power-of-open-source-in-the-corporate-world-1ee402aa3d8b) — Discussed achieving technological sovereignty and operational agility through the strategic adoption of open-source architectures and enterprise toolsets.
-- [**DevOps for Data: Apache Spark on Containers**](https://medium.com/@thesagekhan/devops-for-data-delivering-and-orchestrating-apache-spark-on-containers-05addabaa11d) — Detailed the integration of big data workloads into CI/CD pipelines via containerized Spark, data-quality gates, and multi-tenant resource management on Kubernetes.
-- [**CodeGuardian: AI-Driven Security Code Review with Natural Language Understanding**](https://thesagekhan.medium.com/codeguardian-ai-driven-security-code-review-with-natural-language-understanding-08fc1954d93f) — Technical deep dive into the CodeGuardian architecture, comparing offline (Ollama) and multi-model (Gemini CLI, Codex) code-review pipelines.
-- [**Building a Researcher Profile That Opens Doors**](https://thesagekhan.medium.com/building-a-researcher-profile-that-opens-doors-a-strategic-guide-for-academic-and-industry-beb5bf560017) — An 8-pillar strategic framework for academic and industry researcher-profile building, from publication strategy to platform positioning.
-- [**The Invisible Foundation: Why Infrastructure Matters More Than Ever in the Age of AI**](https://thesagekhan.medium.com/the-invisible-foundation-why-infrastructure-matters-more-than-ever-in-the-age-of-ai-91b3087bc3f8) — A citation-backed analysis of compute, power, and data-center dependency chains underpinning modern AI systems.
-- [**RuView: The Open-Source System That Sees Through Walls with WiFi**](https://thesagekhan.medium.com/ruview-the-open-source-system-that-sees-through-walls-with-wifi-lucius-fox-would-resign-again-0ef1262f40e4) — Technical review of WiFi-based DensePose sensing, examining privacy, security, and dual-use implications of the open-source technique.
-- [**Nvidia or eNvidia? How Big Tech's Infrastructure Squeeze Is Killing the Self-Built Future**](https://thesagekhan.medium.com/nvidia-or-envidia-how-big-techs-infrastructure-squeeze-is-killing-the-self-built-future-28436267ddd6) — Analyzed the GPU/RAM supply squeeze and its impact on independent AI builders versus hyperscalers.
-- [**On AI, Cybersecurity, and Pakistan's Digital Future**](https://thesagekhan.medium.com/on-ai-cybersecurity-and-pakistans-digital-future-reflections-from-my-ntn-news-interview-8814f3674ae3) — Expanded written reflections on structural challenges in Pakistan's digital infrastructure, talent retention, and cybersecurity, following an NTN News interview.
-- [**Will AI Replace Humans? What the Engineering, Economics, and Data Actually Say**](https://thesagekhan.medium.com/will-ai-replace-humans-what-the-engineering-economics-and-data-actually-say-b7d0c53cd55b) — Evidence-based analysis of AI's impact on labor markets, grounded in engineering constraints and economic data rather than hype.
-- [**Beware of Literary Agent Impersonators**](https://thesagekhan.medium.com/beware-of-literary-agent-impersonators-how-to-deal-with-them-fbdfecfe1ccc) — A practical awareness guide for authors on identifying and handling publishing-industry impersonation scams.
-- [**Patience, Justice, and the Quiet Power of Faith**](https://medium.com/@thesagekhan/patience-justice-and-the-quiet-power-of-faith-e80448eb43df) — A reflective essay on resilience, ethics, and faith, extending the author's self-help and human-development writing.
-- [**On Building Veritas: An Ontology-Aware Polyglot DataOps Architecture for Industrial AI**](https://thesagekhan.medium.com/on-building-veritas-an-ontology-aware-polyglot-dataops-architecture-for-industrial-ai-a-2aae4696d4d5) — A technical deep dive into Project Veritas's agentic polyglot-persistence architecture, ontology design, and MSCA research roadmap.
-- [**The Vercel Breach: Why Infrastructure Ownership Is Not Negotiable**](https://thesagekhan.medium.com/the-vercel-breach-why-infrastructure-ownership-is-not-negotiable-167430cba41d) — Analyzed a third-party platform breach to argue for infrastructure ownership and self-hosting as core security and sovereignty practices.
-- [**Enterprise AI Without the Enterprise Bill**](https://thesagekhan.medium.com/enterprise-ai-without-the-enterprise-bill-the-expensive-part-of-ai-was-never-the-ai-13aa6f127f5f) — Adapted from a guest appearance on the *Marketing e IA* podcast with Emilio: how small businesses can run enterprise-grade AI tooling (Ollama, ERPNext, Wazuh, n8n) on open-source stacks for a fraction of SaaS cost.
-- **Agentic AI or Agent Washing: Why Most "AI Agents" in Marketing Are Just Expensive Chatbots** — Companion piece from the same *Marketing e IA* podcast episode: a three-property test (multi-step autonomy, real tool use, self-correction) for separating genuine agentic AI from relabeled chatbots. *(written; link to follow on publication)*
+- [**Understanding Recursive Nature of Fractals**](https://thesagekhan.medium.com/understanding-the-recursive-nature-of-fractals-15c7d0d0d7ca): Explored the mathematical foundations of self-similarity and recursive algorithms, highlighting their applications in procedural generation and computer graphics.
+- [**Fractals in Nature**](https://thesagekhan.medium.com/where-do-we-see-fractals-in-nature-39ac15b95590): Analyzed biological and geological patterns through the lens of fractal geometry, demonstrating how simple recursive rules manifest in complex natural systems like river networks and lung structures.
+- [**Charter of Economy and Technology**](https://thesagekhan.medium.com/beyond-political-cycles-why-pakistan-needs-charters-of-economy-and-it-75d178920d63): Proposed a non-partisan framework for Pakistan's IT sector, emphasizing the need for long-term policy consistency to decouple technological growth from political volatility.
+- [**Modernizing Legacy Apps with Docker & Kubernetes**](https://thesagekhan.medium.com/the-world-is-beyond-monolith-modernizing-legacy-apps-with-docker-kubernetes-0f26289a297c): Outlined architectural strategies for transitioning monolithic systems to cloud-native microservices, focusing on container orchestration and high-availability deployment.
+- [**From the First Hard Fall to the Echo of Legend**](https://thesagekhan.medium.com/from-the-first-hard-fall-to-the-echo-of-legend-calling-new-heroes-to-rise-f0aabf006983): A philosophical exploration of leadership and resilience, drawing parallels between historical excellence and the requirements for modern technical and ethical leadership.
+- [**AI in Project Management Practices**](https://thesagekhan.medium.com/the-role-of-ai-in-project-management-practices-100cd603b080): Discussed the integration of generative AI into Agile workflows, specifically focusing on automated sprint planning, resource allocation, and predictive risk assessment.
+- [**AI Vibe: Coding and Policy Enforcement**](https://thesagekhan.medium.com/ai-vibe-coding-and-policy-enforcement-9a241ef97926): Examined the 'Vibe Coding' phenomenon, balancing the speed of natural language development with the necessity of automated security guardrails and architectural linting.
+- [**Open Source and AI Synergy**](https://thesagekhan.medium.com/open-minds-open-code-the-synergy-of-open-source-and-artificial-intelligence-e132a3023341): Argued for the necessity of open-source ecosystems in AI development to ensure transparency, ethical standards, and the democratization of high-performance models.
+- [**The DevOps of AI Ecosystem**](https://thesagekhan.medium.com/the-devops-of-ai-ecosystem-8ae2d90301e6): Defined the MLOps lifecycle, covering the bridge between model training and production-grade deployment through automated evaluation and continuous monitoring.
+- [**Standard Documentation for Pakistani Citizens**](https://thesagekhan.medium.com/standard-documentation-check-off-list-for-pakistani-citizens-aspiring-to-move-abroad-for-higher-148a0af1dfb1): Compiled a comprehensive logistical guide for students and professionals, detailing the bureaucratic and technical requirements for international academic and professional mobility.
+- [**Braindrain & Bureaucracy**](https://thesagekhan.medium.com/braindrain-bureaucracy-how-the-pakistani-system-forces-its-talent-out-of-the-country-and-how-58bbfa5c77e9): Investigated the systemic causes of talent migration in Pakistan and advocated for digital-first policies and remote-work hubs to retain local intellectual capital.
+- [**Model Context Protocol: Hype, Anti-Pattern, or Standard?**](https://thesagekhan.medium.com/model-context-protocol-hype-or-anti-pattern-or-a-standard-0190049a6071): Analyzed the emerging open standard for LLM-data integration and its role in decoupling agentic workflows from proprietary interfaces.
+- [**Beyond ChatGPT with a UI: Why AI Wrappers Matter**](https://thesagekhan.medium.com/beyond-chatgpt-with-a-ui-why-ai-wrapper-companies-still-matter-if-they-play-it-smart-0207ec253a97): Investigated strategies for building defensible AI-native startups by leveraging vertical domain depth, proprietary data moats, and workflow integration.
+- [**Potential of Pakistan in the Renewable Sector**](https://thesagekhan.medium.com/potential-of-pakistan-in-the-renewable-sector-0e7a748e95b5): Explored Pakistan's 2.9M MW solar potential and proposed policy reforms like smart-grid integration and localized manufacturing for energy independence.
+- [**Rulefiles in AI-Powered Development**](https://thesagekhan.medium.com/how-rulefiles-are-transforming-ai-powered-development-why-writing-once-beats-prompting-forever-23f4b5f720bb): Outlined a paradigm shift in AI-assisted coding using version-controlled instruction sets to enforce architectural standards and security policies.
+- [**Ascon: The Tiny Titan of IoT Security**](https://thesagekhan.medium.com/ascon-the-tiny-titan-of-iot-security-a-deep-technical-dive-8273ab4786b6): Conducted a deep technical dive into the NIST-standardized lightweight cryptographic algorithm, focusing on efficiency in resource-constrained IoT devices.
+- [**Open Source in the Corporate World**](https://thesagekhan.medium.com/open-for-business-harnessing-the-power-of-open-source-in-the-corporate-world-1ee402aa3d8b): Discussed achieving technological sovereignty and operational agility through the strategic adoption of open-source architectures and enterprise toolsets.
+- [**DevOps for Data: Apache Spark on Containers**](https://medium.com/@thesagekhan/devops-for-data-delivering-and-orchestrating-apache-spark-on-containers-05addabaa11d): Detailed the integration of big data workloads into CI/CD pipelines via containerized Spark, data-quality gates, and multi-tenant resource management on Kubernetes.
+- [**CodeGuardian: AI-Driven Security Code Review with Natural Language Understanding**](https://thesagekhan.medium.com/codeguardian-ai-driven-security-code-review-with-natural-language-understanding-08fc1954d93f): Technical deep dive into the CodeGuardian architecture, comparing offline (Ollama) and multi-model (Gemini CLI, Codex) code-review pipelines.
+- [**Building a Researcher Profile That Opens Doors**](https://thesagekhan.medium.com/building-a-researcher-profile-that-opens-doors-a-strategic-guide-for-academic-and-industry-beb5bf560017): An 8-pillar strategic framework for academic and industry researcher-profile building, from publication strategy to platform positioning.
+- [**The Invisible Foundation: Why Infrastructure Matters More Than Ever in the Age of AI**](https://thesagekhan.medium.com/the-invisible-foundation-why-infrastructure-matters-more-than-ever-in-the-age-of-ai-91b3087bc3f8): A citation-backed analysis of compute, power, and data-center dependency chains underpinning modern AI systems.
+- [**RuView: The Open-Source System That Sees Through Walls with WiFi**](https://thesagekhan.medium.com/ruview-the-open-source-system-that-sees-through-walls-with-wifi-lucius-fox-would-resign-again-0ef1262f40e4): Technical review of WiFi-based DensePose sensing, examining privacy, security, and dual-use implications of the open-source technique.
+- [**Nvidia or eNvidia? How Big Tech's Infrastructure Squeeze Is Killing the Self-Built Future**](https://thesagekhan.medium.com/nvidia-or-envidia-how-big-techs-infrastructure-squeeze-is-killing-the-self-built-future-28436267ddd6): Analyzed the GPU/RAM supply squeeze and its impact on independent AI builders versus hyperscalers.
+- [**On AI, Cybersecurity, and Pakistan's Digital Future**](https://thesagekhan.medium.com/on-ai-cybersecurity-and-pakistans-digital-future-reflections-from-my-ntn-news-interview-8814f3674ae3): Expanded written reflections on structural challenges in Pakistan's digital infrastructure, talent retention, and cybersecurity, following an NTN News interview.
+- [**Will AI Replace Humans? What the Engineering, Economics, and Data Actually Say**](https://thesagekhan.medium.com/will-ai-replace-humans-what-the-engineering-economics-and-data-actually-say-b7d0c53cd55b): Evidence-based analysis of AI's impact on labor markets, grounded in engineering constraints and economic data rather than hype.
+- [**Beware of Literary Agent Impersonators**](https://thesagekhan.medium.com/beware-of-literary-agent-impersonators-how-to-deal-with-them-fbdfecfe1ccc): A practical awareness guide for authors on identifying and handling publishing-industry impersonation scams.
+- [**Patience, Justice, and the Quiet Power of Faith**](https://medium.com/@thesagekhan/patience-justice-and-the-quiet-power-of-faith-e80448eb43df): A reflective essay on resilience, ethics, and faith, extending the author's self-help and human-development writing.
+- [**On Building Veritas: An Ontology-Aware Polyglot DataOps Architecture for Industrial AI**](https://thesagekhan.medium.com/on-building-veritas-an-ontology-aware-polyglot-dataops-architecture-for-industrial-ai-a-2aae4696d4d5): A technical deep dive into Project Veritas's agentic polyglot-persistence architecture, ontology design, and MSCA research roadmap.
+- [**The Vercel Breach: Why Infrastructure Ownership Is Not Negotiable**](https://thesagekhan.medium.com/the-vercel-breach-why-infrastructure-ownership-is-not-negotiable-167430cba41d): Analyzed a third-party platform breach to argue for infrastructure ownership and self-hosting as core security and sovereignty practices.
+- [**Enterprise AI Without the Enterprise Bill**](https://thesagekhan.medium.com/enterprise-ai-without-the-enterprise-bill-the-expensive-part-of-ai-was-never-the-ai-13aa6f127f5f): Adapted from a guest appearance on the *Marketing e IA* podcast with Emilio: how small businesses can run enterprise-grade AI tooling (Ollama, ERPNext, Wazuh, n8n) on open-source stacks for a fraction of SaaS cost.
+- **Agentic AI or Agent Washing: Why Most "AI Agents" in Marketing Are Just Expensive Chatbots**: Companion piece from the same *Marketing e IA* podcast episode: a three-property test (multi-step autonomy, real tool use, self-correction) for separating genuine agentic AI from relabeled chatbots. *(written; link to follow on publication)*
